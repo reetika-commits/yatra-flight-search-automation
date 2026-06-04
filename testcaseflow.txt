@@ -1,0 +1,7 @@
+step 1-launch the travel website 
+step 2-provide source (one way travel)
+step 3-provide destination
+step 4-select departure dates
+step 5-click on flight search button
+step 6-select the filter 1 stop
+step 7-erify the result
