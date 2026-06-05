@@ -1,21 +1,24 @@
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from utilities.utils import Utils
 
+#reusable methods depends on driver
 class Base_Driver:
     def __init__(self,driver):
         self.driver=driver
+        self.log=Utils.custom_logger()
         wait= WebDriverWait(driver,20)
 
     def page_scroll(self):
-        print("inside page scroll")
+        self.log.info("inside page scroll")
         while True:
             old_count = self.driver.execute_script("return document.body.scrollHeight")
-            print(f"length before scroll: {old_count}")
+            self.log.info(f"length before scroll: {old_count}")
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
 
             try:
-                print("compairing length and scrolling")
+                self.log.info("compairing length and scrolling")
                 WebDriverWait(self.driver, 10).until(lambda d: d.execute_script("return document.body.scrollHeight") > old_count)
             except:
                 break
