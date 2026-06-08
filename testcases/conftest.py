@@ -3,7 +3,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 import pytest
 from utilities.utils import Utils
 
-@pytest.fixture(scope="class",autouse=True)
+@pytest.fixture(autouse=True)
 def setup(request):
     log=Utils.custom_logger()
     browser=request.config.getoption("--browser")

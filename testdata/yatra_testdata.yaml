@@ -1,9 +1,13 @@
 search_data:
-  - depart_from: BOM
+  - depart_from: Mumbai
     going_to: JFK
-    travel_date: 24/July/26
+    travel_date: 24/June/26
     stops: 1
-  - depart_from: BLR
+  - depart_from: Lucknow
+    going_to: New Delhi
+    travel_date: 10/July/26
+    stops: 0
+  - depart_from: Bangalore
     going_to: LCY
-    travel_date: 25/June/26
+    travel_date: 25/July/26
     stops: 2

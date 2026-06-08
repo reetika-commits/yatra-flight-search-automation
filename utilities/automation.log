@@ -876,3 +876,1208 @@
 08-06-26 14:12 PM - INFO - Select depart-from location
 08-06-26 14:12 PM - INFO - Select depart-from location
 08-06-26 14:12 PM - INFO - Browser closing
+08-06-26 14:19 PM - INFO - Browser value is: edge
+08-06-26 14:19 PM - INFO - Launching browser
+08-06-26 14:20 PM - INFO - Maximizing browser
+08-06-26 14:20 PM - INFO - Driver initialized
+08-06-26 14:20 PM - INFO - Select depart-from location
+08-06-26 14:20 PM - INFO - Select depart-from location
+08-06-26 14:20 PM - INFO - Select going-to location
+08-06-26 14:20 PM - INFO - Select going-to location
+08-06-26 14:20 PM - INFO - Select depart-date
+08-06-26 14:20 PM - INFO - Select depart-date
+08-06-26 14:20 PM - INFO - Click search button
+08-06-26 14:20 PM - INFO - Click search button
+08-06-26 14:20 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 14:20 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 14:20 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 14:20 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 14:22 PM - INFO - inside page scroll
+08-06-26 14:22 PM - INFO - inside page scroll
+08-06-26 14:22 PM - INFO - inside page scroll
+08-06-26 14:22 PM - INFO - inside page scroll
+08-06-26 14:22 PM - INFO - length before scroll: 2905
+08-06-26 14:22 PM - INFO - length before scroll: 2905
+08-06-26 14:22 PM - INFO - length before scroll: 2905
+08-06-26 14:22 PM - INFO - length before scroll: 2905
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 3609
+08-06-26 14:22 PM - INFO - length before scroll: 3609
+08-06-26 14:22 PM - INFO - length before scroll: 3609
+08-06-26 14:22 PM - INFO - length before scroll: 3609
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 4314
+08-06-26 14:22 PM - INFO - length before scroll: 4314
+08-06-26 14:22 PM - INFO - length before scroll: 4314
+08-06-26 14:22 PM - INFO - length before scroll: 4314
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 5018
+08-06-26 14:22 PM - INFO - length before scroll: 5018
+08-06-26 14:22 PM - INFO - length before scroll: 5018
+08-06-26 14:22 PM - INFO - length before scroll: 5018
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 5738
+08-06-26 14:22 PM - INFO - length before scroll: 5738
+08-06-26 14:22 PM - INFO - length before scroll: 5738
+08-06-26 14:22 PM - INFO - length before scroll: 5738
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 6457
+08-06-26 14:22 PM - INFO - length before scroll: 6457
+08-06-26 14:22 PM - INFO - length before scroll: 6457
+08-06-26 14:22 PM - INFO - length before scroll: 6457
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 7162
+08-06-26 14:22 PM - INFO - length before scroll: 7162
+08-06-26 14:22 PM - INFO - length before scroll: 7162
+08-06-26 14:22 PM - INFO - length before scroll: 7162
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 7866
+08-06-26 14:22 PM - INFO - length before scroll: 7866
+08-06-26 14:22 PM - INFO - length before scroll: 7866
+08-06-26 14:22 PM - INFO - length before scroll: 7866
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 8586
+08-06-26 14:22 PM - INFO - length before scroll: 8586
+08-06-26 14:22 PM - INFO - length before scroll: 8586
+08-06-26 14:22 PM - INFO - length before scroll: 8586
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 9290
+08-06-26 14:22 PM - INFO - length before scroll: 9290
+08-06-26 14:22 PM - INFO - length before scroll: 9290
+08-06-26 14:22 PM - INFO - length before scroll: 9290
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 9997
+08-06-26 14:22 PM - INFO - length before scroll: 9997
+08-06-26 14:22 PM - INFO - length before scroll: 9997
+08-06-26 14:22 PM - INFO - length before scroll: 9997
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 10701
+08-06-26 14:22 PM - INFO - length before scroll: 10701
+08-06-26 14:22 PM - INFO - length before scroll: 10701
+08-06-26 14:22 PM - INFO - length before scroll: 10701
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 11405
+08-06-26 14:22 PM - INFO - length before scroll: 11405
+08-06-26 14:22 PM - INFO - length before scroll: 11405
+08-06-26 14:22 PM - INFO - length before scroll: 11405
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 12112
+08-06-26 14:22 PM - INFO - length before scroll: 12112
+08-06-26 14:22 PM - INFO - length before scroll: 12112
+08-06-26 14:22 PM - INFO - length before scroll: 12112
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 12816
+08-06-26 14:22 PM - INFO - length before scroll: 12816
+08-06-26 14:22 PM - INFO - length before scroll: 12816
+08-06-26 14:22 PM - INFO - length before scroll: 12816
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - length before scroll: 13240
+08-06-26 14:22 PM - INFO - length before scroll: 13240
+08-06-26 14:22 PM - INFO - length before scroll: 13240
+08-06-26 14:22 PM - INFO - length before scroll: 13240
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - compairing length and scrolling
+08-06-26 14:22 PM - INFO - Select depart-from location
+08-06-26 14:22 PM - INFO - Select depart-from location
+08-06-26 14:22 PM - INFO - Select depart-from location
+08-06-26 14:22 PM - INFO - Select depart-from location
+08-06-26 14:22 PM - INFO - Select depart-from location
+08-06-26 14:22 PM - INFO - Select depart-from location
+08-06-26 14:23 PM - INFO - Browser closing
+08-06-26 14:23 PM - INFO - Browser value is: edge
+08-06-26 14:23 PM - INFO - Launching browser
+08-06-26 14:23 PM - INFO - Maximizing browser
+08-06-26 14:23 PM - INFO - Driver initialized
+08-06-26 14:23 PM - INFO - Select depart-from location
+08-06-26 14:23 PM - INFO - Select depart-from location
+08-06-26 14:23 PM - INFO - Select going-to location
+08-06-26 14:23 PM - INFO - Select going-to location
+08-06-26 14:23 PM - INFO - Select depart-date
+08-06-26 14:23 PM - INFO - Select depart-date
+08-06-26 14:23 PM - INFO - Click search button
+08-06-26 14:23 PM - INFO - Click search button
+08-06-26 14:24 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 14:24 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 14:24 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 14:24 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 14:24 PM - INFO - inside page scroll
+08-06-26 14:24 PM - INFO - inside page scroll
+08-06-26 14:24 PM - INFO - inside page scroll
+08-06-26 14:24 PM - INFO - inside page scroll
+08-06-26 14:24 PM - INFO - length before scroll: 2905
+08-06-26 14:24 PM - INFO - length before scroll: 2905
+08-06-26 14:24 PM - INFO - length before scroll: 2905
+08-06-26 14:24 PM - INFO - length before scroll: 2905
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 3609
+08-06-26 14:24 PM - INFO - length before scroll: 3609
+08-06-26 14:24 PM - INFO - length before scroll: 3609
+08-06-26 14:24 PM - INFO - length before scroll: 3609
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 4314
+08-06-26 14:24 PM - INFO - length before scroll: 4314
+08-06-26 14:24 PM - INFO - length before scroll: 4314
+08-06-26 14:24 PM - INFO - length before scroll: 4314
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 5018
+08-06-26 14:24 PM - INFO - length before scroll: 5018
+08-06-26 14:24 PM - INFO - length before scroll: 5018
+08-06-26 14:24 PM - INFO - length before scroll: 5018
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 5738
+08-06-26 14:24 PM - INFO - length before scroll: 5738
+08-06-26 14:24 PM - INFO - length before scroll: 5738
+08-06-26 14:24 PM - INFO - length before scroll: 5738
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 6457
+08-06-26 14:24 PM - INFO - length before scroll: 6457
+08-06-26 14:24 PM - INFO - length before scroll: 6457
+08-06-26 14:24 PM - INFO - length before scroll: 6457
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 7162
+08-06-26 14:24 PM - INFO - length before scroll: 7162
+08-06-26 14:24 PM - INFO - length before scroll: 7162
+08-06-26 14:24 PM - INFO - length before scroll: 7162
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 7866
+08-06-26 14:24 PM - INFO - length before scroll: 7866
+08-06-26 14:24 PM - INFO - length before scroll: 7866
+08-06-26 14:24 PM - INFO - length before scroll: 7866
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 8586
+08-06-26 14:24 PM - INFO - length before scroll: 8586
+08-06-26 14:24 PM - INFO - length before scroll: 8586
+08-06-26 14:24 PM - INFO - length before scroll: 8586
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 9290
+08-06-26 14:24 PM - INFO - length before scroll: 9290
+08-06-26 14:24 PM - INFO - length before scroll: 9290
+08-06-26 14:24 PM - INFO - length before scroll: 9290
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 9997
+08-06-26 14:24 PM - INFO - length before scroll: 9997
+08-06-26 14:24 PM - INFO - length before scroll: 9997
+08-06-26 14:24 PM - INFO - length before scroll: 9997
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 10701
+08-06-26 14:24 PM - INFO - length before scroll: 10701
+08-06-26 14:24 PM - INFO - length before scroll: 10701
+08-06-26 14:24 PM - INFO - length before scroll: 10701
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 11405
+08-06-26 14:24 PM - INFO - length before scroll: 11405
+08-06-26 14:24 PM - INFO - length before scroll: 11405
+08-06-26 14:24 PM - INFO - length before scroll: 11405
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 12112
+08-06-26 14:24 PM - INFO - length before scroll: 12112
+08-06-26 14:24 PM - INFO - length before scroll: 12112
+08-06-26 14:24 PM - INFO - length before scroll: 12112
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 12816
+08-06-26 14:24 PM - INFO - length before scroll: 12816
+08-06-26 14:24 PM - INFO - length before scroll: 12816
+08-06-26 14:24 PM - INFO - length before scroll: 12816
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - length before scroll: 13240
+08-06-26 14:24 PM - INFO - length before scroll: 13240
+08-06-26 14:24 PM - INFO - length before scroll: 13240
+08-06-26 14:24 PM - INFO - length before scroll: 13240
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - compairing length and scrolling
+08-06-26 14:24 PM - INFO - Browser closing
+08-06-26 14:24 PM - INFO - Browser value is: edge
+08-06-26 14:24 PM - INFO - Browser value is: edge
+08-06-26 14:25 PM - INFO - Launching browser
+08-06-26 14:25 PM - INFO - Launching browser
+08-06-26 14:25 PM - INFO - Maximizing browser
+08-06-26 14:25 PM - INFO - Maximizing browser
+08-06-26 14:25 PM - INFO - Driver initialized
+08-06-26 14:25 PM - INFO - Driver initialized
+08-06-26 14:25 PM - INFO - Select depart-from location
+08-06-26 14:25 PM - INFO - Select depart-from location
+08-06-26 14:25 PM - INFO - Select depart-from location
+08-06-26 14:25 PM - INFO - Select depart-from location
+08-06-26 14:25 PM - INFO - Select depart-from location
+08-06-26 14:25 PM - INFO - Select depart-from location
+08-06-26 14:25 PM - INFO - Browser closing
+08-06-26 14:25 PM - INFO - Browser closing
+08-06-26 15:06 PM - INFO - Browser value is: edge
+08-06-26 15:06 PM - INFO - Launching browser
+08-06-26 15:06 PM - INFO - Browser value is: edge
+08-06-26 15:06 PM - INFO - Browser value is: edge
+08-06-26 15:06 PM - INFO - Launching browser
+08-06-26 15:06 PM - INFO - Launching browser
+08-06-26 15:08 PM - INFO - Browser value is: edge
+08-06-26 15:08 PM - INFO - Launching browser
+08-06-26 15:09 PM - INFO - Maximizing browser
+08-06-26 15:09 PM - INFO - Driver initialized
+08-06-26 15:09 PM - INFO - Select depart-from location
+08-06-26 15:09 PM - INFO - Select depart-from location
+08-06-26 15:09 PM - INFO - Browser closing
+08-06-26 15:09 PM - INFO - Browser value is: edge
+08-06-26 15:09 PM - INFO - Browser value is: edge
+08-06-26 15:09 PM - INFO - Launching browser
+08-06-26 15:09 PM - INFO - Launching browser
+08-06-26 15:10 PM - INFO - Maximizing browser
+08-06-26 15:10 PM - INFO - Maximizing browser
+08-06-26 15:10 PM - INFO - Driver initialized
+08-06-26 15:10 PM - INFO - Driver initialized
+08-06-26 15:10 PM - INFO - Select depart-from location
+08-06-26 15:10 PM - INFO - Select depart-from location
+08-06-26 15:10 PM - INFO - Select depart-from location
+08-06-26 15:10 PM - INFO - Select depart-from location
+08-06-26 15:10 PM - INFO - Select going-to location
+08-06-26 15:10 PM - INFO - Select going-to location
+08-06-26 15:10 PM - INFO - Select going-to location
+08-06-26 15:10 PM - INFO - Select going-to location
+08-06-26 15:10 PM - INFO - Select depart-date
+08-06-26 15:10 PM - INFO - Select depart-date
+08-06-26 15:10 PM - INFO - Select depart-date
+08-06-26 15:10 PM - INFO - Select depart-date
+08-06-26 15:10 PM - INFO - Click search button
+08-06-26 15:10 PM - INFO - Click search button
+08-06-26 15:10 PM - INFO - Click search button
+08-06-26 15:10 PM - INFO - Click search button
+08-06-26 15:10 PM - INFO - Click on 2 stop(s) flight result
+08-06-26 15:10 PM - INFO - Click on 2 stop(s) flight result
+08-06-26 15:10 PM - INFO - Click on 2 stop(s) flight result
+08-06-26 15:10 PM - INFO - Click on 2 stop(s) flight result
+08-06-26 15:10 PM - INFO - Click on 2 stop(s) flight result
+08-06-26 15:10 PM - INFO - Click on 2 stop(s) flight result
+08-06-26 15:11 PM - INFO - inside page scroll
+08-06-26 15:11 PM - INFO - inside page scroll
+08-06-26 15:11 PM - INFO - inside page scroll
+08-06-26 15:11 PM - INFO - inside page scroll
+08-06-26 15:11 PM - INFO - inside page scroll
+08-06-26 15:11 PM - INFO - inside page scroll
+08-06-26 15:11 PM - INFO - length before scroll: 2821
+08-06-26 15:11 PM - INFO - length before scroll: 2821
+08-06-26 15:11 PM - INFO - length before scroll: 2821
+08-06-26 15:11 PM - INFO - length before scroll: 2821
+08-06-26 15:11 PM - INFO - length before scroll: 2821
+08-06-26 15:11 PM - INFO - length before scroll: 2821
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 3563
+08-06-26 15:11 PM - INFO - length before scroll: 3563
+08-06-26 15:11 PM - INFO - length before scroll: 3563
+08-06-26 15:11 PM - INFO - length before scroll: 3563
+08-06-26 15:11 PM - INFO - length before scroll: 3563
+08-06-26 15:11 PM - INFO - length before scroll: 3563
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 4271
+08-06-26 15:11 PM - INFO - length before scroll: 4271
+08-06-26 15:11 PM - INFO - length before scroll: 4271
+08-06-26 15:11 PM - INFO - length before scroll: 4271
+08-06-26 15:11 PM - INFO - length before scroll: 4271
+08-06-26 15:11 PM - INFO - length before scroll: 4271
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 4975
+08-06-26 15:11 PM - INFO - length before scroll: 4975
+08-06-26 15:11 PM - INFO - length before scroll: 4975
+08-06-26 15:11 PM - INFO - length before scroll: 4975
+08-06-26 15:11 PM - INFO - length before scroll: 4975
+08-06-26 15:11 PM - INFO - length before scroll: 4975
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 5697
+08-06-26 15:11 PM - INFO - length before scroll: 5697
+08-06-26 15:11 PM - INFO - length before scroll: 5697
+08-06-26 15:11 PM - INFO - length before scroll: 5697
+08-06-26 15:11 PM - INFO - length before scroll: 5697
+08-06-26 15:11 PM - INFO - length before scroll: 5697
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 6447
+08-06-26 15:11 PM - INFO - length before scroll: 6447
+08-06-26 15:11 PM - INFO - length before scroll: 6447
+08-06-26 15:11 PM - INFO - length before scroll: 6447
+08-06-26 15:11 PM - INFO - length before scroll: 6447
+08-06-26 15:11 PM - INFO - length before scroll: 6447
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 7182
+08-06-26 15:11 PM - INFO - length before scroll: 7182
+08-06-26 15:11 PM - INFO - length before scroll: 7182
+08-06-26 15:11 PM - INFO - length before scroll: 7182
+08-06-26 15:11 PM - INFO - length before scroll: 7182
+08-06-26 15:11 PM - INFO - length before scroll: 7182
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 7917
+08-06-26 15:11 PM - INFO - length before scroll: 7917
+08-06-26 15:11 PM - INFO - length before scroll: 7917
+08-06-26 15:11 PM - INFO - length before scroll: 7917
+08-06-26 15:11 PM - INFO - length before scroll: 7917
+08-06-26 15:11 PM - INFO - length before scroll: 7917
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 8636
+08-06-26 15:11 PM - INFO - length before scroll: 8636
+08-06-26 15:11 PM - INFO - length before scroll: 8636
+08-06-26 15:11 PM - INFO - length before scroll: 8636
+08-06-26 15:11 PM - INFO - length before scroll: 8636
+08-06-26 15:11 PM - INFO - length before scroll: 8636
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 9358
+08-06-26 15:11 PM - INFO - length before scroll: 9358
+08-06-26 15:11 PM - INFO - length before scroll: 9358
+08-06-26 15:11 PM - INFO - length before scroll: 9358
+08-06-26 15:11 PM - INFO - length before scroll: 9358
+08-06-26 15:11 PM - INFO - length before scroll: 9358
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 10068
+08-06-26 15:11 PM - INFO - length before scroll: 10068
+08-06-26 15:11 PM - INFO - length before scroll: 10068
+08-06-26 15:11 PM - INFO - length before scroll: 10068
+08-06-26 15:11 PM - INFO - length before scroll: 10068
+08-06-26 15:11 PM - INFO - length before scroll: 10068
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 10779
+08-06-26 15:11 PM - INFO - length before scroll: 10779
+08-06-26 15:11 PM - INFO - length before scroll: 10779
+08-06-26 15:11 PM - INFO - length before scroll: 10779
+08-06-26 15:11 PM - INFO - length before scroll: 10779
+08-06-26 15:11 PM - INFO - length before scroll: 10779
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - length before scroll: 10969
+08-06-26 15:11 PM - INFO - length before scroll: 10969
+08-06-26 15:11 PM - INFO - length before scroll: 10969
+08-06-26 15:11 PM - INFO - length before scroll: 10969
+08-06-26 15:11 PM - INFO - length before scroll: 10969
+08-06-26 15:11 PM - INFO - length before scroll: 10969
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - compairing length and scrolling
+08-06-26 15:11 PM - INFO - Browser closing
+08-06-26 15:11 PM - INFO - Browser closing
+08-06-26 15:14 PM - INFO - Browser value is: edge
+08-06-26 15:14 PM - INFO - Launching browser
+08-06-26 15:15 PM - INFO - Maximizing browser
+08-06-26 15:15 PM - INFO - Driver initialized
+08-06-26 15:15 PM - INFO - Select depart-from location
+08-06-26 15:15 PM - INFO - Select depart-from location
+08-06-26 15:15 PM - INFO - Browser closing
+08-06-26 15:15 PM - INFO - Browser value is: edge
+08-06-26 15:15 PM - INFO - Browser value is: edge
+08-06-26 15:15 PM - INFO - Launching browser
+08-06-26 15:15 PM - INFO - Launching browser
+08-06-26 15:16 PM - INFO - Maximizing browser
+08-06-26 15:16 PM - INFO - Maximizing browser
+08-06-26 15:16 PM - INFO - Driver initialized
+08-06-26 15:16 PM - INFO - Driver initialized
+08-06-26 15:16 PM - INFO - Select depart-from location
+08-06-26 15:16 PM - INFO - Select depart-from location
+08-06-26 15:16 PM - INFO - Select depart-from location
+08-06-26 15:16 PM - INFO - Select depart-from location
+08-06-26 15:16 PM - INFO - Select going-to location
+08-06-26 15:16 PM - INFO - Select going-to location
+08-06-26 15:16 PM - INFO - Select going-to location
+08-06-26 15:16 PM - INFO - Select going-to location
+08-06-26 15:16 PM - INFO - Select depart-date
+08-06-26 15:16 PM - INFO - Select depart-date
+08-06-26 15:16 PM - INFO - Select depart-date
+08-06-26 15:16 PM - INFO - Select depart-date
+08-06-26 15:16 PM - INFO - Click search button
+08-06-26 15:16 PM - INFO - Click search button
+08-06-26 15:16 PM - INFO - Click search button
+08-06-26 15:16 PM - INFO - Click search button
+08-06-26 15:16 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:16 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:16 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:16 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:16 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:16 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:17 PM - INFO - inside page scroll
+08-06-26 15:17 PM - INFO - inside page scroll
+08-06-26 15:17 PM - INFO - inside page scroll
+08-06-26 15:17 PM - INFO - inside page scroll
+08-06-26 15:17 PM - INFO - inside page scroll
+08-06-26 15:17 PM - INFO - inside page scroll
+08-06-26 15:17 PM - INFO - length before scroll: 2894
+08-06-26 15:17 PM - INFO - length before scroll: 2894
+08-06-26 15:17 PM - INFO - length before scroll: 2894
+08-06-26 15:17 PM - INFO - length before scroll: 2894
+08-06-26 15:17 PM - INFO - length before scroll: 2894
+08-06-26 15:17 PM - INFO - length before scroll: 2894
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 3599
+08-06-26 15:17 PM - INFO - length before scroll: 3599
+08-06-26 15:17 PM - INFO - length before scroll: 3599
+08-06-26 15:17 PM - INFO - length before scroll: 3599
+08-06-26 15:17 PM - INFO - length before scroll: 3599
+08-06-26 15:17 PM - INFO - length before scroll: 3599
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 4305
+08-06-26 15:17 PM - INFO - length before scroll: 4305
+08-06-26 15:17 PM - INFO - length before scroll: 4305
+08-06-26 15:17 PM - INFO - length before scroll: 4305
+08-06-26 15:17 PM - INFO - length before scroll: 4305
+08-06-26 15:17 PM - INFO - length before scroll: 4305
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 5009
+08-06-26 15:17 PM - INFO - length before scroll: 5009
+08-06-26 15:17 PM - INFO - length before scroll: 5009
+08-06-26 15:17 PM - INFO - length before scroll: 5009
+08-06-26 15:17 PM - INFO - length before scroll: 5009
+08-06-26 15:17 PM - INFO - length before scroll: 5009
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 5714
+08-06-26 15:17 PM - INFO - length before scroll: 5714
+08-06-26 15:17 PM - INFO - length before scroll: 5714
+08-06-26 15:17 PM - INFO - length before scroll: 5714
+08-06-26 15:17 PM - INFO - length before scroll: 5714
+08-06-26 15:17 PM - INFO - length before scroll: 5714
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 6433
+08-06-26 15:17 PM - INFO - length before scroll: 6433
+08-06-26 15:17 PM - INFO - length before scroll: 6433
+08-06-26 15:17 PM - INFO - length before scroll: 6433
+08-06-26 15:17 PM - INFO - length before scroll: 6433
+08-06-26 15:17 PM - INFO - length before scroll: 6433
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 7168
+08-06-26 15:17 PM - INFO - length before scroll: 7168
+08-06-26 15:17 PM - INFO - length before scroll: 7168
+08-06-26 15:17 PM - INFO - length before scroll: 7168
+08-06-26 15:17 PM - INFO - length before scroll: 7168
+08-06-26 15:17 PM - INFO - length before scroll: 7168
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 7888
+08-06-26 15:17 PM - INFO - length before scroll: 7888
+08-06-26 15:17 PM - INFO - length before scroll: 7888
+08-06-26 15:17 PM - INFO - length before scroll: 7888
+08-06-26 15:17 PM - INFO - length before scroll: 7888
+08-06-26 15:17 PM - INFO - length before scroll: 7888
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 8592
+08-06-26 15:17 PM - INFO - length before scroll: 8592
+08-06-26 15:17 PM - INFO - length before scroll: 8592
+08-06-26 15:17 PM - INFO - length before scroll: 8592
+08-06-26 15:17 PM - INFO - length before scroll: 8592
+08-06-26 15:17 PM - INFO - length before scroll: 8592
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 9297
+08-06-26 15:17 PM - INFO - length before scroll: 9297
+08-06-26 15:17 PM - INFO - length before scroll: 9297
+08-06-26 15:17 PM - INFO - length before scroll: 9297
+08-06-26 15:17 PM - INFO - length before scroll: 9297
+08-06-26 15:17 PM - INFO - length before scroll: 9297
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 10001
+08-06-26 15:17 PM - INFO - length before scroll: 10001
+08-06-26 15:17 PM - INFO - length before scroll: 10001
+08-06-26 15:17 PM - INFO - length before scroll: 10001
+08-06-26 15:17 PM - INFO - length before scroll: 10001
+08-06-26 15:17 PM - INFO - length before scroll: 10001
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 10707
+08-06-26 15:17 PM - INFO - length before scroll: 10707
+08-06-26 15:17 PM - INFO - length before scroll: 10707
+08-06-26 15:17 PM - INFO - length before scroll: 10707
+08-06-26 15:17 PM - INFO - length before scroll: 10707
+08-06-26 15:17 PM - INFO - length before scroll: 10707
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - length before scroll: 11366
+08-06-26 15:17 PM - INFO - length before scroll: 11366
+08-06-26 15:17 PM - INFO - length before scroll: 11366
+08-06-26 15:17 PM - INFO - length before scroll: 11366
+08-06-26 15:17 PM - INFO - length before scroll: 11366
+08-06-26 15:17 PM - INFO - length before scroll: 11366
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - compairing length and scrolling
+08-06-26 15:17 PM - INFO - Browser closing
+08-06-26 15:17 PM - INFO - Browser closing
+08-06-26 15:18 PM - INFO - Browser value is: edge
+08-06-26 15:18 PM - INFO - Launching browser
+08-06-26 15:18 PM - INFO - Maximizing browser
+08-06-26 15:18 PM - INFO - Driver initialized
+08-06-26 15:18 PM - INFO - Select depart-from location
+08-06-26 15:18 PM - INFO - Select depart-from location
+08-06-26 15:18 PM - INFO - Browser closing
+08-06-26 15:18 PM - INFO - Browser value is: edge
+08-06-26 15:18 PM - INFO - Browser value is: edge
+08-06-26 15:18 PM - INFO - Launching browser
+08-06-26 15:18 PM - INFO - Launching browser
+08-06-26 15:20 PM - INFO - Maximizing browser
+08-06-26 15:20 PM - INFO - Maximizing browser
+08-06-26 15:20 PM - INFO - Driver initialized
+08-06-26 15:20 PM - INFO - Driver initialized
+08-06-26 15:20 PM - INFO - Select depart-from location
+08-06-26 15:20 PM - INFO - Select depart-from location
+08-06-26 15:20 PM - INFO - Select depart-from location
+08-06-26 15:20 PM - INFO - Select depart-from location
+08-06-26 15:20 PM - INFO - Select going-to location
+08-06-26 15:20 PM - INFO - Select going-to location
+08-06-26 15:20 PM - INFO - Select going-to location
+08-06-26 15:20 PM - INFO - Select going-to location
+08-06-26 15:20 PM - INFO - Select depart-date
+08-06-26 15:20 PM - INFO - Select depart-date
+08-06-26 15:20 PM - INFO - Select depart-date
+08-06-26 15:20 PM - INFO - Select depart-date
+08-06-26 15:20 PM - INFO - Click search button
+08-06-26 15:20 PM - INFO - Click search button
+08-06-26 15:20 PM - INFO - Click search button
+08-06-26 15:20 PM - INFO - Click search button
+08-06-26 15:21 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:21 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:21 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:21 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:21 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:21 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:21 PM - INFO - Browser closing
+08-06-26 15:21 PM - INFO - Browser closing
+08-06-26 15:24 PM - INFO - Browser value is: edge
+08-06-26 15:24 PM - INFO - Launching browser
+08-06-26 15:25 PM - INFO - Maximizing browser
+08-06-26 15:25 PM - INFO - Driver initialized
+08-06-26 15:25 PM - INFO - Select depart-from location DEL
+08-06-26 15:25 PM - INFO - Select depart-from location DEL
+08-06-26 15:25 PM - INFO - Browser closing
+08-06-26 15:25 PM - INFO - Browser value is: edge
+08-06-26 15:25 PM - INFO - Browser value is: edge
+08-06-26 15:25 PM - INFO - Launching browser
+08-06-26 15:25 PM - INFO - Launching browser
+08-06-26 15:26 PM - INFO - Maximizing browser
+08-06-26 15:26 PM - INFO - Maximizing browser
+08-06-26 15:26 PM - INFO - Driver initialized
+08-06-26 15:26 PM - INFO - Driver initialized
+08-06-26 15:26 PM - INFO - Select depart-from location BOM
+08-06-26 15:26 PM - INFO - Select depart-from location BOM
+08-06-26 15:26 PM - INFO - Select depart-from location BOM
+08-06-26 15:26 PM - INFO - Select depart-from location BOM
+08-06-26 15:26 PM - INFO - Select going-to location JFK
+08-06-26 15:26 PM - INFO - Select going-to location JFK
+08-06-26 15:26 PM - INFO - Select going-to location JFK
+08-06-26 15:26 PM - INFO - Select going-to location JFK
+08-06-26 15:26 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:26 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:26 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:26 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:26 PM - INFO - Click search button
+08-06-26 15:26 PM - INFO - Click search button
+08-06-26 15:26 PM - INFO - Click search button
+08-06-26 15:26 PM - INFO - Click search button
+08-06-26 15:26 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:26 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:26 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:26 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:26 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:26 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:26 PM - INFO - Browser closing
+08-06-26 15:26 PM - INFO - Browser closing
+08-06-26 15:46 PM - INFO - Browser value is: edge
+08-06-26 15:46 PM - INFO - Launching browser
+08-06-26 15:48 PM - INFO - Maximizing browser
+08-06-26 15:48 PM - INFO - Driver initialized
+08-06-26 15:48 PM - INFO - Select depart-from location DEL
+08-06-26 15:48 PM - INFO - Select depart-from location DEL
+08-06-26 15:48 PM - INFO - Select going-to location JFK
+08-06-26 15:48 PM - INFO - Select going-to location JFK
+08-06-26 15:48 PM - INFO - Select depart-date 24/June/26
+08-06-26 15:48 PM - INFO - Select depart-date 24/June/26
+08-06-26 15:48 PM - INFO - Click search button
+08-06-26 15:48 PM - INFO - Click search button
+08-06-26 15:48 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:48 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:48 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:48 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:49 PM - INFO - inside page scroll
+08-06-26 15:49 PM - INFO - inside page scroll
+08-06-26 15:49 PM - INFO - inside page scroll
+08-06-26 15:49 PM - INFO - inside page scroll
+08-06-26 15:49 PM - INFO - length before scroll: 2889
+08-06-26 15:49 PM - INFO - length before scroll: 2889
+08-06-26 15:49 PM - INFO - length before scroll: 2889
+08-06-26 15:49 PM - INFO - length before scroll: 2889
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 3594
+08-06-26 15:49 PM - INFO - length before scroll: 3594
+08-06-26 15:49 PM - INFO - length before scroll: 3594
+08-06-26 15:49 PM - INFO - length before scroll: 3594
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 4300
+08-06-26 15:49 PM - INFO - length before scroll: 4300
+08-06-26 15:49 PM - INFO - length before scroll: 4300
+08-06-26 15:49 PM - INFO - length before scroll: 4300
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 5005
+08-06-26 15:49 PM - INFO - length before scroll: 5005
+08-06-26 15:49 PM - INFO - length before scroll: 5005
+08-06-26 15:49 PM - INFO - length before scroll: 5005
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 5739
+08-06-26 15:49 PM - INFO - length before scroll: 5739
+08-06-26 15:49 PM - INFO - length before scroll: 5739
+08-06-26 15:49 PM - INFO - length before scroll: 5739
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 6459
+08-06-26 15:49 PM - INFO - length before scroll: 6459
+08-06-26 15:49 PM - INFO - length before scroll: 6459
+08-06-26 15:49 PM - INFO - length before scroll: 6459
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 7163
+08-06-26 15:49 PM - INFO - length before scroll: 7163
+08-06-26 15:49 PM - INFO - length before scroll: 7163
+08-06-26 15:49 PM - INFO - length before scroll: 7163
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 7868
+08-06-26 15:49 PM - INFO - length before scroll: 7868
+08-06-26 15:49 PM - INFO - length before scroll: 7868
+08-06-26 15:49 PM - INFO - length before scroll: 7868
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 8574
+08-06-26 15:49 PM - INFO - length before scroll: 8574
+08-06-26 15:49 PM - INFO - length before scroll: 8574
+08-06-26 15:49 PM - INFO - length before scroll: 8574
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 9279
+08-06-26 15:49 PM - INFO - length before scroll: 9279
+08-06-26 15:49 PM - INFO - length before scroll: 9279
+08-06-26 15:49 PM - INFO - length before scroll: 9279
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 9983
+08-06-26 15:49 PM - INFO - length before scroll: 9983
+08-06-26 15:49 PM - INFO - length before scroll: 9983
+08-06-26 15:49 PM - INFO - length before scroll: 9983
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 10687
+08-06-26 15:49 PM - INFO - length before scroll: 10687
+08-06-26 15:49 PM - INFO - length before scroll: 10687
+08-06-26 15:49 PM - INFO - length before scroll: 10687
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 11394
+08-06-26 15:49 PM - INFO - length before scroll: 11394
+08-06-26 15:49 PM - INFO - length before scroll: 11394
+08-06-26 15:49 PM - INFO - length before scroll: 11394
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 12098
+08-06-26 15:49 PM - INFO - length before scroll: 12098
+08-06-26 15:49 PM - INFO - length before scroll: 12098
+08-06-26 15:49 PM - INFO - length before scroll: 12098
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - length before scroll: 12524
+08-06-26 15:49 PM - INFO - length before scroll: 12524
+08-06-26 15:49 PM - INFO - length before scroll: 12524
+08-06-26 15:49 PM - INFO - length before scroll: 12524
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - compairing length and scrolling
+08-06-26 15:49 PM - INFO - Browser closing
+08-06-26 15:49 PM - INFO - Browser value is: edge
+08-06-26 15:49 PM - INFO - Browser value is: edge
+08-06-26 15:49 PM - INFO - Launching browser
+08-06-26 15:49 PM - INFO - Launching browser
+08-06-26 15:49 PM - INFO - Maximizing browser
+08-06-26 15:49 PM - INFO - Maximizing browser
+08-06-26 15:49 PM - INFO - Driver initialized
+08-06-26 15:49 PM - INFO - Driver initialized
+08-06-26 15:49 PM - INFO - Select depart-from location BOM
+08-06-26 15:49 PM - INFO - Select depart-from location BOM
+08-06-26 15:49 PM - INFO - Select depart-from location BOM
+08-06-26 15:49 PM - INFO - Select depart-from location BOM
+08-06-26 15:49 PM - INFO - Select depart-from location BOM
+08-06-26 15:49 PM - INFO - Select depart-from location BOM
+08-06-26 15:49 PM - INFO - Select going-to location JFK
+08-06-26 15:49 PM - INFO - Select going-to location JFK
+08-06-26 15:49 PM - INFO - Select going-to location JFK
+08-06-26 15:49 PM - INFO - Select going-to location JFK
+08-06-26 15:49 PM - INFO - Select going-to location JFK
+08-06-26 15:49 PM - INFO - Select going-to location JFK
+08-06-26 15:49 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:49 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:49 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:49 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:49 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:49 PM - INFO - Select depart-date 25/June/26
+08-06-26 15:49 PM - INFO - Click search button
+08-06-26 15:49 PM - INFO - Click search button
+08-06-26 15:49 PM - INFO - Click search button
+08-06-26 15:49 PM - INFO - Click search button
+08-06-26 15:49 PM - INFO - Click search button
+08-06-26 15:49 PM - INFO - Click search button
+08-06-26 15:50 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:50 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:50 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:50 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:50 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:50 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:50 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:50 PM - INFO - Click on 1 stop(s) flight result
+08-06-26 15:51 PM - INFO - inside page scroll
+08-06-26 15:51 PM - INFO - inside page scroll
+08-06-26 15:51 PM - INFO - inside page scroll
+08-06-26 15:51 PM - INFO - inside page scroll
+08-06-26 15:51 PM - INFO - inside page scroll
+08-06-26 15:51 PM - INFO - inside page scroll
+08-06-26 15:51 PM - INFO - inside page scroll
+08-06-26 15:51 PM - INFO - inside page scroll
+08-06-26 15:51 PM - INFO - length before scroll: 2905
+08-06-26 15:51 PM - INFO - length before scroll: 2905
+08-06-26 15:51 PM - INFO - length before scroll: 2905
+08-06-26 15:51 PM - INFO - length before scroll: 2905
+08-06-26 15:51 PM - INFO - length before scroll: 2905
+08-06-26 15:51 PM - INFO - length before scroll: 2905
+08-06-26 15:51 PM - INFO - length before scroll: 2905
+08-06-26 15:51 PM - INFO - length before scroll: 2905
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 3609
+08-06-26 15:51 PM - INFO - length before scroll: 3609
+08-06-26 15:51 PM - INFO - length before scroll: 3609
+08-06-26 15:51 PM - INFO - length before scroll: 3609
+08-06-26 15:51 PM - INFO - length before scroll: 3609
+08-06-26 15:51 PM - INFO - length before scroll: 3609
+08-06-26 15:51 PM - INFO - length before scroll: 3609
+08-06-26 15:51 PM - INFO - length before scroll: 3609
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 4316
+08-06-26 15:51 PM - INFO - length before scroll: 4316
+08-06-26 15:51 PM - INFO - length before scroll: 4316
+08-06-26 15:51 PM - INFO - length before scroll: 4316
+08-06-26 15:51 PM - INFO - length before scroll: 4316
+08-06-26 15:51 PM - INFO - length before scroll: 4316
+08-06-26 15:51 PM - INFO - length before scroll: 4316
+08-06-26 15:51 PM - INFO - length before scroll: 4316
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 5020
+08-06-26 15:51 PM - INFO - length before scroll: 5020
+08-06-26 15:51 PM - INFO - length before scroll: 5020
+08-06-26 15:51 PM - INFO - length before scroll: 5020
+08-06-26 15:51 PM - INFO - length before scroll: 5020
+08-06-26 15:51 PM - INFO - length before scroll: 5020
+08-06-26 15:51 PM - INFO - length before scroll: 5020
+08-06-26 15:51 PM - INFO - length before scroll: 5020
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 5725
+08-06-26 15:51 PM - INFO - length before scroll: 5725
+08-06-26 15:51 PM - INFO - length before scroll: 5725
+08-06-26 15:51 PM - INFO - length before scroll: 5725
+08-06-26 15:51 PM - INFO - length before scroll: 5725
+08-06-26 15:51 PM - INFO - length before scroll: 5725
+08-06-26 15:51 PM - INFO - length before scroll: 5725
+08-06-26 15:51 PM - INFO - length before scroll: 5725
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 6444
+08-06-26 15:51 PM - INFO - length before scroll: 6444
+08-06-26 15:51 PM - INFO - length before scroll: 6444
+08-06-26 15:51 PM - INFO - length before scroll: 6444
+08-06-26 15:51 PM - INFO - length before scroll: 6444
+08-06-26 15:51 PM - INFO - length before scroll: 6444
+08-06-26 15:51 PM - INFO - length before scroll: 6444
+08-06-26 15:51 PM - INFO - length before scroll: 6444
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 7179
+08-06-26 15:51 PM - INFO - length before scroll: 7179
+08-06-26 15:51 PM - INFO - length before scroll: 7179
+08-06-26 15:51 PM - INFO - length before scroll: 7179
+08-06-26 15:51 PM - INFO - length before scroll: 7179
+08-06-26 15:51 PM - INFO - length before scroll: 7179
+08-06-26 15:51 PM - INFO - length before scroll: 7179
+08-06-26 15:51 PM - INFO - length before scroll: 7179
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 7899
+08-06-26 15:51 PM - INFO - length before scroll: 7899
+08-06-26 15:51 PM - INFO - length before scroll: 7899
+08-06-26 15:51 PM - INFO - length before scroll: 7899
+08-06-26 15:51 PM - INFO - length before scroll: 7899
+08-06-26 15:51 PM - INFO - length before scroll: 7899
+08-06-26 15:51 PM - INFO - length before scroll: 7899
+08-06-26 15:51 PM - INFO - length before scroll: 7899
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 8603
+08-06-26 15:51 PM - INFO - length before scroll: 8603
+08-06-26 15:51 PM - INFO - length before scroll: 8603
+08-06-26 15:51 PM - INFO - length before scroll: 8603
+08-06-26 15:51 PM - INFO - length before scroll: 8603
+08-06-26 15:51 PM - INFO - length before scroll: 8603
+08-06-26 15:51 PM - INFO - length before scroll: 8603
+08-06-26 15:51 PM - INFO - length before scroll: 8603
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 9307
+08-06-26 15:51 PM - INFO - length before scroll: 9307
+08-06-26 15:51 PM - INFO - length before scroll: 9307
+08-06-26 15:51 PM - INFO - length before scroll: 9307
+08-06-26 15:51 PM - INFO - length before scroll: 9307
+08-06-26 15:51 PM - INFO - length before scroll: 9307
+08-06-26 15:51 PM - INFO - length before scroll: 9307
+08-06-26 15:51 PM - INFO - length before scroll: 9307
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 10012
+08-06-26 15:51 PM - INFO - length before scroll: 10012
+08-06-26 15:51 PM - INFO - length before scroll: 10012
+08-06-26 15:51 PM - INFO - length before scroll: 10012
+08-06-26 15:51 PM - INFO - length before scroll: 10012
+08-06-26 15:51 PM - INFO - length before scroll: 10012
+08-06-26 15:51 PM - INFO - length before scroll: 10012
+08-06-26 15:51 PM - INFO - length before scroll: 10012
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 10718
+08-06-26 15:51 PM - INFO - length before scroll: 10718
+08-06-26 15:51 PM - INFO - length before scroll: 10718
+08-06-26 15:51 PM - INFO - length before scroll: 10718
+08-06-26 15:51 PM - INFO - length before scroll: 10718
+08-06-26 15:51 PM - INFO - length before scroll: 10718
+08-06-26 15:51 PM - INFO - length before scroll: 10718
+08-06-26 15:51 PM - INFO - length before scroll: 10718
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - length before scroll: 11377
+08-06-26 15:51 PM - INFO - length before scroll: 11377
+08-06-26 15:51 PM - INFO - length before scroll: 11377
+08-06-26 15:51 PM - INFO - length before scroll: 11377
+08-06-26 15:51 PM - INFO - length before scroll: 11377
+08-06-26 15:51 PM - INFO - length before scroll: 11377
+08-06-26 15:51 PM - INFO - length before scroll: 11377
+08-06-26 15:51 PM - INFO - length before scroll: 11377
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - compairing length and scrolling
+08-06-26 15:51 PM - INFO - Browser closing
+08-06-26 15:51 PM - INFO - Browser closing

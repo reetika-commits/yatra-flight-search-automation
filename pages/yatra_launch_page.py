@@ -17,7 +17,7 @@ class LaunchPage(Base_Driver):
     
     #Locators
     depart_from_field_locator="//*[text()='Departure From']"
-    depart_from_location_locator=f"//*[contains(text(),'departairport')]"
+    depart_from_location_locator=f"//span[contains(text(),'departairport')]"
     going_to_field_locator="//p[text()='Going To']"
     going_to_location_locator=f"//span[contains(text(),'arrivalairport')]"
     travel_date_field_locator="//span[contains(text(),'Departure Date')]"
@@ -29,6 +29,7 @@ class LaunchPage(Base_Driver):
         return self.wait_element_to_be_clickable(By.XPATH, self.depart_from_field_locator)
     
     def get_depart_from_location(self,departairport):
+        print(departairport)
         depart_from_location_xpath=(self.depart_from_location_locator.replace("departairport",departairport))
         return self.wait_element_to_be_clickable(By.XPATH, depart_from_location_xpath)
     
@@ -65,15 +66,16 @@ class LaunchPage(Base_Driver):
         self.get_search_btn().click()
 
     #select        
+   
     def select_depart_from_location(self,departlocation):
-        self.log.info("Select depart-from location")
+        self.log.info(f"Select depart-from location {departlocation}")
         self.click_depart_from_field()
         time.sleep(5)
         self.get_depart_from_location(departlocation).click()
         
     
     def select_going_to_location(self,arrivalLocation):
-        self.log.info("Select going-to location")
+        self.log.info(f"Select going-to location {arrivalLocation}")
         try:
             close_btn = self.driver.find_element(By.XPATH, "//span[contains(@class,'close')]")
             close_btn.click()
@@ -85,7 +87,7 @@ class LaunchPage(Base_Driver):
         airport.click()
             
     def select_travel_date(self,traveldate):
-        self.log.info("Select depart-date")
+        self.log.info(f"Select depart-date {traveldate}")
         self.click_travel_date_field()
         self.get_travel_date(traveldate).click()
                
