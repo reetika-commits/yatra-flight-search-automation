@@ -1,0 +1,9 @@
+search_data:
+  - depart_from: BOM
+    going_to: JFK
+    travel_date: 24/July/26
+    stops: 1
+  - depart_from: BLR
+    going_to: LCY
+    travel_date: 25/June/26
+    stops: 2

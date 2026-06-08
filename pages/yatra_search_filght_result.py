@@ -16,11 +16,11 @@ class SearchResultPage(Base_Driver):
     
     #Locator
     stop_flight_locator="//p[text()='stop']"
-    verify_stop_locator="//span[contains(text(),'1 Stop') or contains(text(),'2') or contains(text(),'Non Stop')]"
+    verify_stop_locator="//span[contains(text(),'1 Stop') or contains(text(),'2 Stops') or contains(text(),'Non Stop')]"
 
     #get
     def get_stop_flight(self,stop):
-        stop_flight_xpath=self.stop_flight_locator.replace("stop",stop)
+        stop_flight_xpath=self.stop_flight_locator.replace("stop",str(stop))
         return self.wait_element_to_be_clickable(By.XPATH, stop_flight_xpath)
     
     def get_verify_stop(self):

@@ -1,13 +1,18 @@
 import logging
 import inspect
+import yaml
 
-
+#File Paths
+yaml_file_path="testdata/yatra_testdata.yaml"
 #reusable methods
 class Utils:
     def assertListItemtext(self,list,expected):
+        if expected=="1":stops="1 Stop"
+        elif expected=="2":stops="2 Stops"
+        elif expected=="0":stops="Non Stop"
         actual_stops=[item.text.strip() for item in list if item.text.strip()!=""]
         for stop in actual_stops:            
-            assert stop==expected, f"Stop is {stop} and Asseert is fail"
+            assert stop==stops, f"Stop is {stop} and Asseert is fail"
 
     @staticmethod        
     def custom_logger(loglevel=logging.DEBUG):
@@ -30,5 +35,9 @@ class Utils:
             logger.addHandler(file_handler)
             return logger
         #log massage
-
-
+    
+    @staticmethod
+    def read_yaml():
+        with open(yaml_file_path, 'r') as file:
+             yaml_containt=yaml.safe_load(file)
+        return  yaml_containt

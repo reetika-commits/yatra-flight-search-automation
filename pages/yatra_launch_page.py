@@ -1,3 +1,5 @@
+import time
+
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -66,11 +68,17 @@ class LaunchPage(Base_Driver):
     def select_depart_from_location(self,departlocation):
         self.log.info("Select depart-from location")
         self.click_depart_from_field()
+        time.sleep(5)
         self.get_depart_from_location(departlocation).click()
         
     
     def select_going_to_location(self,arrivalLocation):
         self.log.info("Select going-to location")
+        try:
+            close_btn = self.driver.find_element(By.XPATH, "//span[contains(@class,'close')]")
+            close_btn.click()
+        except:
+            pass
         self.click_going_to_field()
         self.driver.switch_to.active_element.send_keys(arrivalLocation + Keys.RETURN)
         airport=self.get_going_to_location(arrivalLocation)
