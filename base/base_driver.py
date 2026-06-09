@@ -22,7 +22,10 @@ class Base_Driver:
                 WebDriverWait(self.driver, 10).until(lambda d: d.execute_script("return document.body.scrollHeight") > old_count)
             except:
                 break
-            
+
+    def take_screenshots(self,test_name):
+        self.driver.save_screenshot(f"screenshots/{test_name}")
+
     def wait_presence_of_element_located(self,locator_type,locator):
         implicitly_wait= WebDriverWait(self.driver,20)
         return WebDriverWait(self.driver,30).until(EC.presence_of_element_located((locator_type, locator)))

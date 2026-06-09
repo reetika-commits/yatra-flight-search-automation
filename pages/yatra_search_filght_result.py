@@ -1,7 +1,5 @@
 from selenium.webdriver.remote.webdriver import WebDriver
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-import logging
 from base.base_driver import Base_Driver
 from utilities.utils import Utils
 
@@ -27,8 +25,14 @@ class SearchResultPage(Base_Driver):
         return self.wait_presence_of_all_elements_located(By.XPATH,self.verify_stop_locator)
 
     def click_stop_flight(self,stop):
-        self.log.info(f"Click on {stop} stop(s) flight result")
-        self.get_stop_flight(stop).click()
+        try:
+            self.log.info(f"Click on {stop} stop(s) flight result")
+            self.get_stop_flight(stop).click()
+        except Exception as e:
+            self.take_screenshots("Select_Stop(s).png")
+            self.log.info(f"Click on {stop} stop(s) flight result. Exception {e}")
+            raise
+
 
     def verify_stops(self):
         return self.get_verify_stop()

@@ -68,26 +68,42 @@ class LaunchPage(Base_Driver):
     #select        
    
     def select_depart_from_location(self,departlocation):
-        self.log.info(f"Select depart-from location {departlocation}")
-        self.click_depart_from_field()
-        time.sleep(5)
-        depart_element=self.get_depart_from_location(departlocation)
-        depart_element.click()
-        #self.driver.execute_script("argument[0].click();",depart_element)
+        try:
+            self.log.info(f"Select depart-from location {departlocation}")
+            self.click_depart_from_field()
+            time.sleep(5)
+            depart_element=self.get_depart_from_location(departlocation)
+            depart_element.click()
+        except Exception as e:
+            self.take_screenshots("Select_Dearture_from.png")
+            self.log.info(f"Select depart-from location {departlocation} Exception {e}")
+            raise
+        
         
     
     def select_going_to_location(self,arrivalLocation):
-        self.log.info(f"Select going-to location {arrivalLocation}")
-        self.click_going_to_field()
-        self.driver.switch_to.active_element.send_keys(arrivalLocation + Keys.RETURN)
-        airport=self.get_going_to_location(arrivalLocation)
-        airport.click()
+        try:
+            self.log.info(f"Select going-to location {arrivalLocation}")
+            self.click_going_to_field()
+            self.driver.switch_to.active_element.send_keys(arrivalLocation + Keys.RETURN)
+            airport=self.get_going_to_location(arrivalLocation)
+            airport.click()
+        except Exception as e:
+            self.take_screenshots("Select_Going_to.png")
+            self.log.info(f"Select going-to {arrivalLocation} Exception {e}")
+            raise
+
             
     def select_travel_date(self,traveldate):
-        self.log.info(f"Select depart-date {traveldate}")
-        self.click_travel_date_field()
-        self.get_travel_date(traveldate).click()
-               
+        try:
+            self.log.info(f"Select depart-date {traveldate}")
+            self.click_travel_date_field()
+            self.get_travel_date(traveldate).click()
+        except Exception as e:
+            self.take_screenshots("Select_Travel_Date.png")
+            self.log.info(f"Select depart-date {traveldate} Exception {e}")
+            raise
+       
 # search flight and return the instance of search result page  
     def searchflight(self,departlocation,arrivalLocation,traveldate):
         self.select_depart_from_location(departlocation)

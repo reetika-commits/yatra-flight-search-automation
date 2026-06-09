@@ -13,10 +13,9 @@ csv_file_path="testdata/csv_testdata.csv"
 #reusable methods
 class Utils:
     def assertListItemtext(self,list,expected):
-        expected=str(expected)
-        if expected=="1":stops="1 Stop"
-        elif expected=="2":stops="2 Stops"
-        elif expected=="0":stops="Non Stop"
+        if expected==1:stops="1 Stop"
+        elif expected==2:stops="2 Stops"
+        elif expected==0:stops="Non Stop"
         actual_stops=[item.text.strip() for item in list if item.text.strip()!=""]
         for stop in actual_stops:            
             assert stop==stops, f"Stop is {stop} and Asseert is fail"
