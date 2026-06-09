@@ -13,6 +13,7 @@ csv_file_path="testdata/csv_testdata.csv"
 #reusable methods
 class Utils:
     def assertListItemtext(self,list,expected):
+        expected=str(expected)
         if expected=="1":stops="1 Stop"
         elif expected=="2":stops="2 Stops"
         elif expected=="0":stops="Non Stop"
