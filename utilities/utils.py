@@ -1,10 +1,13 @@
 import logging
 import inspect
 import yaml
+from utilities import excel_utils
 
 
 #File Paths
 yaml_file_path="testdata/yatra_testdata.yaml"
+xl_file_path="testdata/excel_testdata.xlsx"
+
 #reusable methods
 class Utils:
     def assertListItemtext(self,list,expected):
@@ -42,3 +45,24 @@ class Utils:
         with open(yaml_file_path, 'r') as file:
              yaml_containt=yaml.safe_load(file)
         return  yaml_containt
+    
+    
+    def read_excel():
+        sheet = "Sheet1"
+        test_data = []
+        rows =excel_utils.get_row_count_xl(xl_file_path,sheet)
+        for r in range(2, rows + 1):
+            departurecity = excel_utils.read_data(xl_file_path,sheet, r, 1)
+            arrivalcity = excel_utils.read_data(xl_file_path,sheet, r, 2)
+            traveldate = excel_utils.read_data(xl_file_path,sheet, r, 3)
+            stops= excel_utils.read_data(xl_file_path,sheet, r, 4)
+
+            test_data.append({
+                "depart_from":departurecity,
+                "going_to":arrivalcity,
+                "travel_date":traveldate,
+                "stops":stops
+           } )
+        print(test_data)
+        return test_data
+    

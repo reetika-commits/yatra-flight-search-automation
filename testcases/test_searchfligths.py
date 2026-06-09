@@ -14,7 +14,8 @@ class TestSearchAndVerfyFilter:
         self.lp= LaunchPage(self.driver)
         self.utils=Utils()
 
-    test_data=Utils.read_yaml()['search_data']
+   # test_data=Utils.read_yaml()['search_data']
+    test_data=Utils.read_excel()
     print(f"Test data directory: {test_data}")
     @pytest.mark.parametrize("data",test_data)
     def test_search_flight(self, data):  
