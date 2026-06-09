@@ -2,11 +2,13 @@ import logging
 import inspect
 import yaml
 from utilities import excel_utils
+import pandas as pd
 
 
 #File Paths
 yaml_file_path="testdata/yatra_testdata.yaml"
 xl_file_path="testdata/excel_testdata.xlsx"
+csv_file_path="testdata/csv_testdata.csv"
 
 #reusable methods
 class Utils:
@@ -46,7 +48,7 @@ class Utils:
              yaml_containt=yaml.safe_load(file)
         return  yaml_containt
     
-    
+    @staticmethod
     def read_excel():
         sheet = "Sheet1"
         test_data = []
@@ -66,3 +68,7 @@ class Utils:
         print(test_data)
         return test_data
     
+    @staticmethod
+    def read_csv():
+        test_data=pd.read_csv(csv_file_path)
+        return test_data.to_dict(orient="records")

@@ -15,7 +15,8 @@ class TestSearchAndVerfyFilter:
         self.utils=Utils()
 
    # test_data=Utils.read_yaml()['search_data']
-    test_data=Utils.read_excel()
+    #test_data=Utils.read_excel()
+    test_data=Utils.read_csv()
     print(f"Test data directory: {test_data}")
     @pytest.mark.parametrize("data",test_data)
     def test_search_flight(self, data):  
