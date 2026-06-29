@@ -1,0 +1,6 @@
+selenium
+pytest== 9.0.3
+pytest-html
+webdriver-manager
+pandas
+openpyxl
