@@ -2,6 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 import pytest
 from utilities.utils import Utils
+import os 
+from selenium.webdriver.chrome.options import Options
 
 @pytest.fixture(autouse=True)
 def setup(request):
@@ -11,7 +13,12 @@ def setup(request):
     if browser.lower()=="edge":
         driver=webdriver.Edge()
     elif browser.lower()=="chrome":
-        driver=webdriver.Chrome()
+        options=Options()
+        if os.getenv("GITHUB_ACTION")== "true":
+            options.add_argument("--headless=new")
+            options.add_argument("--no-sandbox")
+            options.add_argument("--disable-dev-shm-usage")
+            driver=webdriver.Chrome(options)
     elif browser.lower()=="opera":
         driver=webdriver.Opera()
     log.info("Launching browser")
