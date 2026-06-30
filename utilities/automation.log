@@ -6539,3 +6539,151 @@ Stacktrace:
 29-06-26 21:17 PM - INFO - Browser closing
 29-06-26 21:17 PM - INFO - Browser closing
 29-06-26 21:17 PM - INFO - Browser closing
+30-06-26 13:22 PM - INFO - Browser value is: edge
+30-06-26 13:22 PM - INFO - Launching browser
+30-06-26 13:23 PM - INFO - Maximizing browser
+30-06-26 13:23 PM - INFO - Driver initialized
+30-06-26 13:23 PM - INFO - Select depart-from location BLR
+30-06-26 13:23 PM - INFO - Select depart-from location BLR
+30-06-26 13:24 PM - INFO - Select depart-from location BLR Exception Message: element click intercepted: Element <span class="fw-600 mb-0">...</span> is not clickable at point (359, 551). Other element would receive the click: <iframe title="webpush-onsite" name="webpush-onsite" id="webpush-onsite" frameborder="0" marginheight="0" marginwidth="0" style="height: 123px; width: 350px; visibility: visible; display: block; position: fixed; bottom: 20px; left: 20px; z-index: 16776272;"></iframe>
+  (Session info: MicrosoftEdge=149.0.4022.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e7143e0e]
+	msedgedriver!(No symbol) [0x7ff7e71425d0]
+	msedgedriver!(No symbol) [0x7ff7e71406f5]
+	msedgedriver!(No symbol) [0x7ff7e713fb2c]
+	msedgedriver!(No symbol) [0x7ff7e71355f1]
+	msedgedriver!(No symbol) [0x7ff7e715e94a]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7134f3d]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+30-06-26 13:24 PM - INFO - Select depart-from location BLR Exception Message: element click intercepted: Element <span class="fw-600 mb-0">...</span> is not clickable at point (359, 551). Other element would receive the click: <iframe title="webpush-onsite" name="webpush-onsite" id="webpush-onsite" frameborder="0" marginheight="0" marginwidth="0" style="height: 123px; width: 350px; visibility: visible; display: block; position: fixed; bottom: 20px; left: 20px; z-index: 16776272;"></iframe>
+  (Session info: MicrosoftEdge=149.0.4022.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e7143e0e]
+	msedgedriver!(No symbol) [0x7ff7e71425d0]
+	msedgedriver!(No symbol) [0x7ff7e71406f5]
+	msedgedriver!(No symbol) [0x7ff7e713fb2c]
+	msedgedriver!(No symbol) [0x7ff7e71355f1]
+	msedgedriver!(No symbol) [0x7ff7e715e94a]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7134f3d]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+30-06-26 13:24 PM - INFO - Browser closing
+30-06-26 13:24 PM - INFO - Browser value is: edge
+30-06-26 13:24 PM - INFO - Browser value is: edge
+30-06-26 13:24 PM - INFO - Launching browser
+30-06-26 13:24 PM - INFO - Launching browser
+30-06-26 13:26 PM - INFO - Browser value is: edge
+30-06-26 13:26 PM - INFO - Browser value is: edge
+30-06-26 13:26 PM - INFO - Browser value is: edge
+30-06-26 13:26 PM - INFO - Launching browser
+30-06-26 13:26 PM - INFO - Launching browser
+30-06-26 13:26 PM - INFO - Launching browser
+30-06-26 13:27 PM - INFO - Maximizing browser
+30-06-26 13:27 PM - INFO - Maximizing browser
+30-06-26 13:27 PM - INFO - Maximizing browser
+30-06-26 13:27 PM - INFO - Driver initialized
+30-06-26 13:27 PM - INFO - Driver initialized
+30-06-26 13:27 PM - INFO - Driver initialized
+30-06-26 13:27 PM - INFO - Select depart-from location BOM
+30-06-26 13:27 PM - INFO - Select depart-from location BOM
+30-06-26 13:27 PM - INFO - Select depart-from location BOM
+30-06-26 13:27 PM - INFO - Select depart-from location BOM
+30-06-26 13:27 PM - INFO - Select going-to location DEL
+30-06-26 13:27 PM - INFO - Select going-to location DEL
+30-06-26 13:27 PM - INFO - Select going-to location DEL
+30-06-26 13:27 PM - INFO - Select going-to location DEL
+30-06-26 13:27 PM - INFO - Select depart-date 15/July/20
+30-06-26 13:27 PM - INFO - Select depart-date 15/July/20
+30-06-26 13:27 PM - INFO - Select depart-date 15/July/20
+30-06-26 13:27 PM - INFO - Select depart-date 15/July/20
+30-06-26 13:27 PM - INFO - Click search button
+30-06-26 13:27 PM - INFO - Click search button
+30-06-26 13:27 PM - INFO - Click search button
+30-06-26 13:27 PM - INFO - Click search button
+30-06-26 13:27 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 13:27 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 13:27 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 13:27 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 13:27 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 13:27 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 13:31 PM - INFO - Click on 0 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=51972): Read timed out. (read timeout=120)
+30-06-26 13:31 PM - INFO - Click on 0 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=51972): Read timed out. (read timeout=120)
+30-06-26 13:31 PM - INFO - Click on 0 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=51972): Read timed out. (read timeout=120)
+30-06-26 13:31 PM - INFO - Click on 0 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=51972): Read timed out. (read timeout=120)
+30-06-26 13:31 PM - INFO - Click on 0 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=51972): Read timed out. (read timeout=120)
+30-06-26 13:31 PM - INFO - Click on 0 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=51972): Read timed out. (read timeout=120)
+30-06-26 13:31 PM - INFO - Browser closing
+30-06-26 13:31 PM - INFO - Browser closing
+30-06-26 13:31 PM - INFO - Browser closing
+30-06-26 13:32 PM - INFO - Browser value is: chrome
+30-06-26 13:32 PM - INFO - Launching browser
+30-06-26 13:33 PM - INFO - Maximizing browser
+30-06-26 13:33 PM - INFO - Driver initialized
+30-06-26 13:33 PM - INFO - Select depart-from location BLR
+30-06-26 13:33 PM - INFO - Select depart-from location BLR
+30-06-26 13:33 PM - INFO - Select going-to location JFK
+30-06-26 13:33 PM - INFO - Select going-to location JFK
+30-06-26 13:33 PM - INFO - Select depart-date 25/July/26
+30-06-26 13:33 PM - INFO - Select depart-date 25/July/26
+30-06-26 13:33 PM - INFO - Click search button
+30-06-26 13:33 PM - INFO - Click search button
+30-06-26 13:33 PM - INFO - Click on 1 stop(s) flight result
+30-06-26 13:33 PM - INFO - Click on 1 stop(s) flight result
+30-06-26 13:33 PM - INFO - Click on 1 stop(s) flight result
+30-06-26 13:33 PM - INFO - Click on 1 stop(s) flight result
+30-06-26 13:37 PM - INFO - Click on 1 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=57404): Read timed out. (read timeout=120)
+30-06-26 13:37 PM - INFO - Click on 1 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=57404): Read timed out. (read timeout=120)
+30-06-26 13:37 PM - INFO - Click on 1 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=57404): Read timed out. (read timeout=120)
+30-06-26 13:37 PM - INFO - Click on 1 stop(s) flight result. Exception HTTPConnectionPool(host='localhost', port=57404): Read timed out. (read timeout=120)
+30-06-26 13:37 PM - INFO - Browser closing
+30-06-26 13:37 PM - INFO - Browser value is: chrome
+30-06-26 13:37 PM - INFO - Browser value is: chrome
+30-06-26 13:37 PM - INFO - Launching browser
+30-06-26 13:37 PM - INFO - Launching browser
+30-06-26 13:39 PM - INFO - Browser value is: chrome
+30-06-26 13:39 PM - INFO - Browser value is: chrome
+30-06-26 13:39 PM - INFO - Browser value is: chrome
+30-06-26 13:39 PM - INFO - Launching browser
+30-06-26 13:39 PM - INFO - Launching browser
+30-06-26 13:39 PM - INFO - Launching browser
+30-06-26 13:41 PM - INFO - Maximizing browser
+30-06-26 13:41 PM - INFO - Maximizing browser
+30-06-26 13:41 PM - INFO - Maximizing browser
