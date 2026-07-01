@@ -1,4 +1,4 @@
-import time
+from datetime import datetime
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -75,7 +75,7 @@ class LaunchPage(Base_Driver):
             depart_element=self.get_depart_from_location(departlocation)
             depart_element.click()
         except Exception as e:
-            self.take_screenshots("Select_Dearture_from.png")
+            self.take_screenshots(f"Select_Dearture_from_{departlocation}_{datetime.now().timestamp()}.png")
             self.log.info(f"Select depart-from location {departlocation} Exception {e}")
             raise
         
@@ -89,7 +89,7 @@ class LaunchPage(Base_Driver):
             airport=self.get_going_to_location(arrivalLocation)
             airport.click()
         except Exception as e:
-            self.take_screenshots("Select_Going_to.png")
+            self.take_screenshots(f"Select_Going_to_{arrivalLocation}_{datetime.now().timestamp()}.png")
             self.log.info(f"Select going-to {arrivalLocation} Exception {e}")
             raise
 
@@ -100,7 +100,7 @@ class LaunchPage(Base_Driver):
             self.click_travel_date_field()
             self.get_travel_date(traveldate).click()
         except Exception as e:
-            self.take_screenshots("Select_Travel_Date.png")
+            self.take_screenshots(f"Select_Travel_Date_{traveldate}_{datetime.now().timestamp()}.png")
             self.log.info(f"Select depart-date {traveldate} Exception {e}")
             raise
        

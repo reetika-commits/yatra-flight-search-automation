@@ -1,3 +1,4 @@
+from datetime import datetime
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from base.base_driver import Base_Driver
@@ -29,7 +30,7 @@ class SearchResultPage(Base_Driver):
             self.log.info(f"Click on {stop} stop(s) flight result")
             self.get_stop_flight(stop).click()
         except Exception as e:
-            self.take_screenshots("Select_Stop(s).png")
+            self.take_screenshots(f"Select_Stop(s)_{stop}_{datetime.now().timestamp()}.png")
             self.log.info(f"Click on {stop} stop(s) flight result. Exception {e}")
             raise
 
