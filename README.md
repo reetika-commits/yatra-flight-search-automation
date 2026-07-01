@@ -55,6 +55,9 @@ Future Enhancements
 - Parallel execution with Pytest-xdist
 
 Author
+Reetika Srivastava
+QA Automation Engineer | Python | Selenium | Pytest
 
+P.S>"GitHub Actions execution is currently affected by intermittent connectivity/timeouts while accessing the public Yatra website. Tests execute successfully locally. Further improvements may include retry logic, better synchronization, or using a more stable test environment."
 Reetika Srivastava
 QA Automation Engineer | Python | Selenium | Pytest
