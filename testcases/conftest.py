@@ -14,17 +14,17 @@ def setup(request):
         driver=webdriver.Edge()
     elif browser.lower()=="chrome":
         options=Options()
-        if os.getenv("GITHUB_ACTION")== "true":
+        if os.getenv("GITHUB_ACTIONS")== "true":
             options.add_argument("--headless=new")
             options.add_argument("--no-sandbox")
             options.add_argument("--disable-dev-shm-usage")
-            driver=webdriver.Chrome(options)
+        driver=webdriver.Chrome(options=options)
     elif browser.lower()=="opera":
         driver=webdriver.Opera()
     log.info("Launching browser")
-    driver.get("https://www.yatra.com/")
     log.info("Maximizing browser")
     driver.maximize_window()
+    driver.get("https://www.yatra.com/")
     log.info("Driver initialized")
     request.cls.driver=driver #return the instance of driver to the requesting class
    

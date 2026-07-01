@@ -27,13 +27,13 @@ class Base_Driver:
         self.driver.save_screenshot(f"screenshots/{test_name}")
 
     def wait_presence_of_element_located(self,locator_type,locator):
-        implicitly_wait= WebDriverWait(self.driver,20)
+        implicitly_wait= WebDriverWait(self.driver,30)
         return WebDriverWait(self.driver,30).until(EC.presence_of_element_located((locator_type, locator)))
     
     def wait_presence_of_all_elements_located(self,locator_type,locator):
-        implicitly_wait= WebDriverWait(self.driver,20)
+        implicitly_wait= WebDriverWait(self.driver,30)
         return WebDriverWait(self.driver,30).until(EC.presence_of_all_elements_located((locator_type, locator)))
    
     def wait_element_to_be_clickable(self,locator_type,locator):
-        implicitly_wait= WebDriverWait(self.driver,20)
+        implicitly_wait= WebDriverWait(self.driver,30)
         return WebDriverWait(self.driver,30).until(EC.element_to_be_clickable((locator_type, locator)))

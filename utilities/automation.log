@@ -6687,3 +6687,2129 @@ Stacktrace:
 30-06-26 13:41 PM - INFO - Maximizing browser
 30-06-26 13:41 PM - INFO - Maximizing browser
 30-06-26 13:41 PM - INFO - Maximizing browser
+30-06-26 17:12 PM - INFO - Browser value is: chrome
+30-06-26 17:13 PM - INFO - Launching browser
+30-06-26 17:15 PM - INFO - Browser value is: chrome
+30-06-26 17:15 PM - INFO - Browser value is: chrome
+30-06-26 17:15 PM - INFO - Launching browser
+30-06-26 17:15 PM - INFO - Launching browser
+30-06-26 17:17 PM - INFO - Browser value is: chrome
+30-06-26 17:17 PM - INFO - Browser value is: chrome
+30-06-26 17:17 PM - INFO - Browser value is: chrome
+30-06-26 17:17 PM - INFO - Launching browser
+30-06-26 17:17 PM - INFO - Launching browser
+30-06-26 17:17 PM - INFO - Launching browser
+30-06-26 17:18 PM - INFO - Maximizing browser
+30-06-26 17:18 PM - INFO - Maximizing browser
+30-06-26 17:18 PM - INFO - Maximizing browser
+30-06-26 17:18 PM - INFO - Driver initialized
+30-06-26 17:18 PM - INFO - Driver initialized
+30-06-26 17:18 PM - INFO - Driver initialized
+30-06-26 17:18 PM - INFO - Select depart-from location BOM
+30-06-26 17:18 PM - INFO - Select depart-from location BOM
+30-06-26 17:18 PM - INFO - Select going-to location DEL
+30-06-26 17:18 PM - INFO - Select going-to location DEL
+30-06-26 17:18 PM - INFO - Select depart-date 15/July/20
+30-06-26 17:18 PM - INFO - Select depart-date 15/July/20
+30-06-26 17:18 PM - INFO - Click search button
+30-06-26 17:18 PM - INFO - Click search button
+30-06-26 17:19 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 17:19 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 17:19 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 17:19 PM - INFO - Click on 0 stop(s) flight result
+30-06-26 17:20 PM - INFO - inside page scroll
+30-06-26 17:20 PM - INFO - inside page scroll
+30-06-26 17:20 PM - INFO - inside page scroll
+30-06-26 17:20 PM - INFO - inside page scroll
+30-06-26 17:20 PM - INFO - length before scroll: 5995
+30-06-26 17:20 PM - INFO - length before scroll: 5995
+30-06-26 17:20 PM - INFO - length before scroll: 5995
+30-06-26 17:20 PM - INFO - length before scroll: 5995
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 7631
+30-06-26 17:20 PM - INFO - length before scroll: 7631
+30-06-26 17:20 PM - INFO - length before scroll: 7631
+30-06-26 17:20 PM - INFO - length before scroll: 7631
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 9267
+30-06-26 17:20 PM - INFO - length before scroll: 9267
+30-06-26 17:20 PM - INFO - length before scroll: 9267
+30-06-26 17:20 PM - INFO - length before scroll: 9267
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 11094
+30-06-26 17:20 PM - INFO - length before scroll: 11094
+30-06-26 17:20 PM - INFO - length before scroll: 11094
+30-06-26 17:20 PM - INFO - length before scroll: 11094
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 12402
+30-06-26 17:20 PM - INFO - length before scroll: 12402
+30-06-26 17:20 PM - INFO - length before scroll: 12402
+30-06-26 17:20 PM - INFO - length before scroll: 12402
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 12594
+30-06-26 17:20 PM - INFO - length before scroll: 12594
+30-06-26 17:20 PM - INFO - length before scroll: 12594
+30-06-26 17:20 PM - INFO - length before scroll: 12594
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 12785
+30-06-26 17:20 PM - INFO - length before scroll: 12785
+30-06-26 17:20 PM - INFO - length before scroll: 12785
+30-06-26 17:20 PM - INFO - length before scroll: 12785
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 12976
+30-06-26 17:20 PM - INFO - length before scroll: 12976
+30-06-26 17:20 PM - INFO - length before scroll: 12976
+30-06-26 17:20 PM - INFO - length before scroll: 12976
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 13167
+30-06-26 17:20 PM - INFO - length before scroll: 13167
+30-06-26 17:20 PM - INFO - length before scroll: 13167
+30-06-26 17:20 PM - INFO - length before scroll: 13167
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 13358
+30-06-26 17:20 PM - INFO - length before scroll: 13358
+30-06-26 17:20 PM - INFO - length before scroll: 13358
+30-06-26 17:20 PM - INFO - length before scroll: 13358
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 13549
+30-06-26 17:20 PM - INFO - length before scroll: 13549
+30-06-26 17:20 PM - INFO - length before scroll: 13549
+30-06-26 17:20 PM - INFO - length before scroll: 13549
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 13740
+30-06-26 17:20 PM - INFO - length before scroll: 13740
+30-06-26 17:20 PM - INFO - length before scroll: 13740
+30-06-26 17:20 PM - INFO - length before scroll: 13740
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - length before scroll: 13931
+30-06-26 17:20 PM - INFO - length before scroll: 13931
+30-06-26 17:20 PM - INFO - length before scroll: 13931
+30-06-26 17:20 PM - INFO - length before scroll: 13931
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - compairing length and scrolling
+30-06-26 17:20 PM - INFO - Browser closing
+30-06-26 17:20 PM - INFO - Browser closing
+30-06-26 17:20 PM - INFO - Browser closing
+30-06-26 17:28 PM - INFO - Browser value is: chrome
+30-06-26 17:28 PM - INFO - Launching browser
+30-06-26 17:30 PM - INFO - Browser value is: chrome
+30-06-26 17:30 PM - INFO - Browser value is: chrome
+30-06-26 17:30 PM - INFO - Launching browser
+30-06-26 17:30 PM - INFO - Launching browser
+30-06-26 17:31 PM - INFO - Maximizing browser
+30-06-26 17:31 PM - INFO - Maximizing browser
+30-06-26 17:31 PM - INFO - Driver initialized
+30-06-26 17:31 PM - INFO - Driver initialized
+30-06-26 17:31 PM - INFO - Select depart-from location DEL
+30-06-26 17:31 PM - INFO - Select depart-from location DEL
+30-06-26 17:31 PM - INFO - Select going-to location LCY
+30-06-26 17:31 PM - INFO - Select going-to location LCY
+30-06-26 17:31 PM - INFO - Select depart-date 24/July/16
+30-06-26 17:31 PM - INFO - Select depart-date 24/July/16
+30-06-26 17:32 PM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff77a233fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff77a234000+14980]
+	chromedriver!(No symbol) [0x7ff779d7793d]
+	chromedriver!(No symbol) [0x7ff779dd1aad]
+	chromedriver!(No symbol) [0x7ff779dd1dac]
+	chromedriver!(No symbol) [0x7ff779e227d7]
+	chromedriver!(No symbol) [0x7ff779e1f39b]
+	chromedriver!(No symbol) [0x7ff779dc401c]
+	chromedriver!(No symbol) [0x7ff779dc4f43]
+	chromedriver!GetHandleVerifier [0x7ff77a817591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff77a811902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff77a837115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff77a251dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff77a25a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff77a23d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff77a23d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff77a221447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+30-06-26 17:32 PM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff77a233fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff77a234000+14980]
+	chromedriver!(No symbol) [0x7ff779d7793d]
+	chromedriver!(No symbol) [0x7ff779dd1aad]
+	chromedriver!(No symbol) [0x7ff779dd1dac]
+	chromedriver!(No symbol) [0x7ff779e227d7]
+	chromedriver!(No symbol) [0x7ff779e1f39b]
+	chromedriver!(No symbol) [0x7ff779dc401c]
+	chromedriver!(No symbol) [0x7ff779dc4f43]
+	chromedriver!GetHandleVerifier [0x7ff77a817591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff77a811902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff77a837115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff77a251dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff77a25a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff77a23d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff77a23d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff77a221447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+30-06-26 17:32 PM - INFO - Browser closing
+30-06-26 17:32 PM - INFO - Browser closing
+30-06-26 17:32 PM - INFO - Browser value is: chrome
+30-06-26 17:32 PM - INFO - Browser value is: chrome
+30-06-26 17:32 PM - INFO - Browser value is: chrome
+30-06-26 17:32 PM - INFO - Launching browser
+30-06-26 17:32 PM - INFO - Launching browser
+30-06-26 17:32 PM - INFO - Launching browser
+30-06-26 17:37 PM - INFO - Browser value is: chrome
+30-06-26 17:37 PM - INFO - Launching browser
+30-06-26 17:37 PM - INFO - Maximizing browser
+30-06-26 17:38 PM - INFO - Driver initialized
+30-06-26 17:38 PM - INFO - Select depart-from location BLR
+30-06-26 17:38 PM - INFO - Select depart-from location BLR
+30-06-26 17:38 PM - INFO - Select going-to location JFK
+30-06-26 17:38 PM - INFO - Select going-to location JFK
+30-06-26 17:39 PM - INFO - Select going-to JFK Exception Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff77a233fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff77a234000+14980]
+	chromedriver!(No symbol) [0x7ff779d7793d]
+	chromedriver!(No symbol) [0x7ff779dd1aad]
+	chromedriver!(No symbol) [0x7ff779dd1dac]
+	chromedriver!(No symbol) [0x7ff779e227d7]
+	chromedriver!(No symbol) [0x7ff779e1f39b]
+	chromedriver!(No symbol) [0x7ff779dc401c]
+	chromedriver!(No symbol) [0x7ff779dc4f43]
+	chromedriver!GetHandleVerifier [0x7ff77a817591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff77a811902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff77a837115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff77a251dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff77a25a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff77a23d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff77a23d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff77a221447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+30-06-26 17:39 PM - INFO - Select going-to JFK Exception Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff77a233fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff77a234000+14980]
+	chromedriver!(No symbol) [0x7ff779d7793d]
+	chromedriver!(No symbol) [0x7ff779dd1aad]
+	chromedriver!(No symbol) [0x7ff779dd1dac]
+	chromedriver!(No symbol) [0x7ff779e227d7]
+	chromedriver!(No symbol) [0x7ff779e1f39b]
+	chromedriver!(No symbol) [0x7ff779dc401c]
+	chromedriver!(No symbol) [0x7ff779dc4f43]
+	chromedriver!GetHandleVerifier [0x7ff77a817591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff77a811902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff77a837115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff77a251dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff77a25a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff77a23d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff77a23d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff77a221447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+30-06-26 17:39 PM - INFO - Browser closing
+30-06-26 17:39 PM - INFO - Browser value is: chrome
+30-06-26 17:39 PM - INFO - Browser value is: chrome
+30-06-26 17:39 PM - INFO - Launching browser
+30-06-26 17:39 PM - INFO - Launching browser
+30-06-26 17:39 PM - INFO - Maximizing browser
+30-06-26 17:39 PM - INFO - Maximizing browser
+30-06-26 17:39 PM - INFO - Driver initialized
+30-06-26 17:39 PM - INFO - Driver initialized
+30-06-26 17:39 PM - INFO - Select depart-from location DEL
+30-06-26 17:39 PM - INFO - Select depart-from location DEL
+30-06-26 17:39 PM - INFO - Select depart-from location DEL
+30-06-26 17:39 PM - INFO - Select depart-from location DEL
+30-06-26 17:39 PM - INFO - Browser closing
+30-06-26 17:39 PM - INFO - Browser closing
+30-06-26 17:39 PM - INFO - Browser value is: chrome
+30-06-26 17:39 PM - INFO - Browser value is: chrome
+30-06-26 17:39 PM - INFO - Browser value is: chrome
+30-06-26 17:39 PM - INFO - Launching browser
+30-06-26 17:39 PM - INFO - Launching browser
+30-06-26 17:39 PM - INFO - Launching browser
+30-06-26 17:39 PM - INFO - Maximizing browser
+30-06-26 17:39 PM - INFO - Maximizing browser
+30-06-26 17:39 PM - INFO - Maximizing browser
+30-06-26 17:41 PM - INFO - Driver initialized
+30-06-26 17:41 PM - INFO - Driver initialized
+30-06-26 17:41 PM - INFO - Driver initialized
+30-06-26 17:41 PM - INFO - Select depart-from location BOM
+30-06-26 17:41 PM - INFO - Select depart-from location BOM
+30-06-26 17:41 PM - INFO - Select depart-from location BOM
+30-06-26 17:41 PM - INFO - Select depart-from location BOM
+30-06-26 17:41 PM - INFO - Select depart-from location BOM
+30-06-26 17:41 PM - INFO - Select depart-from location BOM
+30-06-26 17:41 PM - INFO - Browser closing
+30-06-26 17:41 PM - INFO - Browser closing
+30-06-26 17:41 PM - INFO - Browser closing
+01-07-26 07:37 AM - INFO - Browser value is: edge
+01-07-26 07:37 AM - INFO - Launching browser
+01-07-26 07:37 AM - INFO - Maximizing browser
+01-07-26 07:39 AM - INFO - Browser value is: edge
+01-07-26 07:39 AM - INFO - Browser value is: edge
+01-07-26 07:39 AM - INFO - Launching browser
+01-07-26 07:39 AM - INFO - Launching browser
+01-07-26 07:39 AM - INFO - Maximizing browser
+01-07-26 07:39 AM - INFO - Maximizing browser
+01-07-26 07:40 AM - INFO - Driver initialized
+01-07-26 07:40 AM - INFO - Driver initialized
+01-07-26 07:40 AM - INFO - Select depart-from location DEL
+01-07-26 07:40 AM - INFO - Select depart-from location DEL
+01-07-26 07:41 AM - INFO - Select depart-from location DEL Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 07:41 AM - INFO - Select depart-from location DEL Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 07:41 AM - INFO - Browser closing
+01-07-26 07:41 AM - INFO - Browser closing
+01-07-26 07:41 AM - INFO - Browser value is: edge
+01-07-26 07:41 AM - INFO - Browser value is: edge
+01-07-26 07:41 AM - INFO - Browser value is: edge
+01-07-26 07:41 AM - INFO - Launching browser
+01-07-26 07:41 AM - INFO - Launching browser
+01-07-26 07:41 AM - INFO - Launching browser
+01-07-26 07:41 AM - INFO - Maximizing browser
+01-07-26 07:41 AM - INFO - Maximizing browser
+01-07-26 07:41 AM - INFO - Maximizing browser
+01-07-26 07:41 AM - INFO - Driver initialized
+01-07-26 07:41 AM - INFO - Driver initialized
+01-07-26 07:41 AM - INFO - Driver initialized
+01-07-26 07:41 AM - INFO - Select depart-from location BOM
+01-07-26 07:41 AM - INFO - Select depart-from location BOM
+01-07-26 07:41 AM - INFO - Select depart-from location BOM
+01-07-26 07:41 AM - INFO - Select depart-from location BOM
+01-07-26 07:41 AM - INFO - Browser closing
+01-07-26 07:41 AM - INFO - Browser closing
+01-07-26 07:41 AM - INFO - Browser closing
+01-07-26 07:42 AM - INFO - Browser value is: edge
+01-07-26 07:42 AM - INFO - Launching browser
+01-07-26 07:42 AM - INFO - Maximizing browser
+01-07-26 07:43 AM - INFO - Driver initialized
+01-07-26 07:43 AM - INFO - Select depart-from location BLR
+01-07-26 07:43 AM - INFO - Select depart-from location BLR
+01-07-26 07:43 AM - INFO - Select depart-from location BLR Exception Message: element click intercepted: Element <span class="fw-600 mb-0">...</span> is not clickable at point (359, 551). Other element would receive the click: <iframe title="webpush-onsite" name="webpush-onsite" id="webpush-onsite" frameborder="0" marginheight="0" marginwidth="0" style="height: 123px; width: 350px; visibility: visible; display: block; position: fixed; bottom: 20px; left: 20px; z-index: 16776272;"></iframe>
+  (Session info: MicrosoftEdge=149.0.4022.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e7143e0e]
+	msedgedriver!(No symbol) [0x7ff7e71425d0]
+	msedgedriver!(No symbol) [0x7ff7e71406f5]
+	msedgedriver!(No symbol) [0x7ff7e713fb2c]
+	msedgedriver!(No symbol) [0x7ff7e71355f1]
+	msedgedriver!(No symbol) [0x7ff7e715e94a]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7134f3d]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 07:43 AM - INFO - Select depart-from location BLR Exception Message: element click intercepted: Element <span class="fw-600 mb-0">...</span> is not clickable at point (359, 551). Other element would receive the click: <iframe title="webpush-onsite" name="webpush-onsite" id="webpush-onsite" frameborder="0" marginheight="0" marginwidth="0" style="height: 123px; width: 350px; visibility: visible; display: block; position: fixed; bottom: 20px; left: 20px; z-index: 16776272;"></iframe>
+  (Session info: MicrosoftEdge=149.0.4022.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e7143e0e]
+	msedgedriver!(No symbol) [0x7ff7e71425d0]
+	msedgedriver!(No symbol) [0x7ff7e71406f5]
+	msedgedriver!(No symbol) [0x7ff7e713fb2c]
+	msedgedriver!(No symbol) [0x7ff7e71355f1]
+	msedgedriver!(No symbol) [0x7ff7e715e94a]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7134f3d]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 07:43 AM - INFO - Browser closing
+01-07-26 07:44 AM - INFO - Browser value is: edge
+01-07-26 07:44 AM - INFO - Launching browser
+01-07-26 07:44 AM - INFO - Maximizing browser
+01-07-26 07:44 AM - INFO - Driver initialized
+01-07-26 07:44 AM - INFO - Select depart-from location BOM
+01-07-26 07:44 AM - INFO - Select depart-from location BOM
+01-07-26 07:44 AM - INFO - Select going-to location JFK
+01-07-26 07:44 AM - INFO - Select going-to location JFK
+01-07-26 07:45 AM - INFO - Select depart-date 25/July/26
+01-07-26 07:45 AM - INFO - Select depart-date 25/July/26
+01-07-26 07:45 AM - INFO - Click search button
+01-07-26 07:45 AM - INFO - Click search button
+01-07-26 07:45 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 07:45 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 07:45 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 07:45 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 07:45 AM - INFO - Click on 1 stop(s) flight result. Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 07:45 AM - INFO - Click on 1 stop(s) flight result. Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 07:45 AM - INFO - Click on 1 stop(s) flight result. Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 07:45 AM - INFO - Click on 1 stop(s) flight result. Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 07:45 AM - INFO - Browser closing
+01-07-26 07:58 AM - INFO - Browser value is: edge
+01-07-26 07:58 AM - INFO - Launching browser
+01-07-26 07:58 AM - INFO - Maximizing browser
+01-07-26 07:59 AM - INFO - Driver initialized
+01-07-26 07:59 AM - INFO - Select depart-from location BOM
+01-07-26 07:59 AM - INFO - Select depart-from location BOM
+01-07-26 07:59 AM - INFO - Select going-to location JFK
+01-07-26 07:59 AM - INFO - Select going-to location JFK
+01-07-26 07:59 AM - INFO - Select depart-date 25/July/26
+01-07-26 07:59 AM - INFO - Select depart-date 25/July/26
+01-07-26 07:59 AM - INFO - Click search button
+01-07-26 07:59 AM - INFO - Click search button
+01-07-26 07:59 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 07:59 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 07:59 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 07:59 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 07:59 AM - INFO - inside page scroll
+01-07-26 07:59 AM - INFO - inside page scroll
+01-07-26 07:59 AM - INFO - inside page scroll
+01-07-26 07:59 AM - INFO - inside page scroll
+01-07-26 07:59 AM - INFO - length before scroll: 2905
+01-07-26 07:59 AM - INFO - length before scroll: 2905
+01-07-26 07:59 AM - INFO - length before scroll: 2905
+01-07-26 07:59 AM - INFO - length before scroll: 2905
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 3613
+01-07-26 07:59 AM - INFO - length before scroll: 3613
+01-07-26 07:59 AM - INFO - length before scroll: 3613
+01-07-26 07:59 AM - INFO - length before scroll: 3613
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 4318
+01-07-26 07:59 AM - INFO - length before scroll: 4318
+01-07-26 07:59 AM - INFO - length before scroll: 4318
+01-07-26 07:59 AM - INFO - length before scroll: 4318
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 5022
+01-07-26 07:59 AM - INFO - length before scroll: 5022
+01-07-26 07:59 AM - INFO - length before scroll: 5022
+01-07-26 07:59 AM - INFO - length before scroll: 5022
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 5727
+01-07-26 07:59 AM - INFO - length before scroll: 5727
+01-07-26 07:59 AM - INFO - length before scroll: 5727
+01-07-26 07:59 AM - INFO - length before scroll: 5727
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 6446
+01-07-26 07:59 AM - INFO - length before scroll: 6446
+01-07-26 07:59 AM - INFO - length before scroll: 6446
+01-07-26 07:59 AM - INFO - length before scroll: 6446
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 7151
+01-07-26 07:59 AM - INFO - length before scroll: 7151
+01-07-26 07:59 AM - INFO - length before scroll: 7151
+01-07-26 07:59 AM - INFO - length before scroll: 7151
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 7870
+01-07-26 07:59 AM - INFO - length before scroll: 7870
+01-07-26 07:59 AM - INFO - length before scroll: 7870
+01-07-26 07:59 AM - INFO - length before scroll: 7870
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 8575
+01-07-26 07:59 AM - INFO - length before scroll: 8575
+01-07-26 07:59 AM - INFO - length before scroll: 8575
+01-07-26 07:59 AM - INFO - length before scroll: 8575
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - length before scroll: 9294
+01-07-26 07:59 AM - INFO - length before scroll: 9294
+01-07-26 07:59 AM - INFO - length before scroll: 9294
+01-07-26 07:59 AM - INFO - length before scroll: 9294
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 07:59 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - length before scroll: 10014
+01-07-26 08:00 AM - INFO - length before scroll: 10014
+01-07-26 08:00 AM - INFO - length before scroll: 10014
+01-07-26 08:00 AM - INFO - length before scroll: 10014
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - length before scroll: 11416
+01-07-26 08:00 AM - INFO - length before scroll: 11416
+01-07-26 08:00 AM - INFO - length before scroll: 11416
+01-07-26 08:00 AM - INFO - length before scroll: 11416
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - length before scroll: 12121
+01-07-26 08:00 AM - INFO - length before scroll: 12121
+01-07-26 08:00 AM - INFO - length before scroll: 12121
+01-07-26 08:00 AM - INFO - length before scroll: 12121
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - length before scroll: 12827
+01-07-26 08:00 AM - INFO - length before scroll: 12827
+01-07-26 08:00 AM - INFO - length before scroll: 12827
+01-07-26 08:00 AM - INFO - length before scroll: 12827
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - length before scroll: 13533
+01-07-26 08:00 AM - INFO - length before scroll: 13533
+01-07-26 08:00 AM - INFO - length before scroll: 13533
+01-07-26 08:00 AM - INFO - length before scroll: 13533
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - length before scroll: 14238
+01-07-26 08:00 AM - INFO - length before scroll: 14238
+01-07-26 08:00 AM - INFO - length before scroll: 14238
+01-07-26 08:00 AM - INFO - length before scroll: 14238
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - length before scroll: 14957
+01-07-26 08:00 AM - INFO - length before scroll: 14957
+01-07-26 08:00 AM - INFO - length before scroll: 14957
+01-07-26 08:00 AM - INFO - length before scroll: 14957
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - length before scroll: 15396
+01-07-26 08:00 AM - INFO - length before scroll: 15396
+01-07-26 08:00 AM - INFO - length before scroll: 15396
+01-07-26 08:00 AM - INFO - length before scroll: 15396
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - compairing length and scrolling
+01-07-26 08:00 AM - INFO - Browser closing
+01-07-26 08:00 AM - INFO - Browser value is: edge
+01-07-26 08:00 AM - INFO - Launching browser
+01-07-26 08:00 AM - INFO - Maximizing browser
+01-07-26 08:01 AM - INFO - Driver initialized
+01-07-26 08:01 AM - INFO - Select depart-from location BOM
+01-07-26 08:01 AM - INFO - Select depart-from location BOM
+01-07-26 08:01 AM - INFO - Select going-to location JFK
+01-07-26 08:01 AM - INFO - Select going-to location JFK
+01-07-26 08:01 AM - INFO - Select depart-date 25/July/26
+01-07-26 08:01 AM - INFO - Select depart-date 25/July/26
+01-07-26 08:01 AM - INFO - Click search button
+01-07-26 08:01 AM - INFO - Click search button
+01-07-26 08:01 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 08:01 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 08:01 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 08:01 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 08:02 AM - INFO - inside page scroll
+01-07-26 08:02 AM - INFO - inside page scroll
+01-07-26 08:02 AM - INFO - inside page scroll
+01-07-26 08:02 AM - INFO - inside page scroll
+01-07-26 08:02 AM - INFO - length before scroll: 2905
+01-07-26 08:02 AM - INFO - length before scroll: 2905
+01-07-26 08:02 AM - INFO - length before scroll: 2905
+01-07-26 08:02 AM - INFO - length before scroll: 2905
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 2907
+01-07-26 08:02 AM - INFO - length before scroll: 2907
+01-07-26 08:02 AM - INFO - length before scroll: 2907
+01-07-26 08:02 AM - INFO - length before scroll: 2907
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 3613
+01-07-26 08:02 AM - INFO - length before scroll: 3613
+01-07-26 08:02 AM - INFO - length before scroll: 3613
+01-07-26 08:02 AM - INFO - length before scroll: 3613
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 4318
+01-07-26 08:02 AM - INFO - length before scroll: 4318
+01-07-26 08:02 AM - INFO - length before scroll: 4318
+01-07-26 08:02 AM - INFO - length before scroll: 4318
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 5022
+01-07-26 08:02 AM - INFO - length before scroll: 5022
+01-07-26 08:02 AM - INFO - length before scroll: 5022
+01-07-26 08:02 AM - INFO - length before scroll: 5022
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 5727
+01-07-26 08:02 AM - INFO - length before scroll: 5727
+01-07-26 08:02 AM - INFO - length before scroll: 5727
+01-07-26 08:02 AM - INFO - length before scroll: 5727
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 6446
+01-07-26 08:02 AM - INFO - length before scroll: 6446
+01-07-26 08:02 AM - INFO - length before scroll: 6446
+01-07-26 08:02 AM - INFO - length before scroll: 6446
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 7151
+01-07-26 08:02 AM - INFO - length before scroll: 7151
+01-07-26 08:02 AM - INFO - length before scroll: 7151
+01-07-26 08:02 AM - INFO - length before scroll: 7151
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 7870
+01-07-26 08:02 AM - INFO - length before scroll: 7870
+01-07-26 08:02 AM - INFO - length before scroll: 7870
+01-07-26 08:02 AM - INFO - length before scroll: 7870
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 8575
+01-07-26 08:02 AM - INFO - length before scroll: 8575
+01-07-26 08:02 AM - INFO - length before scroll: 8575
+01-07-26 08:02 AM - INFO - length before scroll: 8575
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 9279
+01-07-26 08:02 AM - INFO - length before scroll: 9279
+01-07-26 08:02 AM - INFO - length before scroll: 9279
+01-07-26 08:02 AM - INFO - length before scroll: 9279
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 9999
+01-07-26 08:02 AM - INFO - length before scroll: 9999
+01-07-26 08:02 AM - INFO - length before scroll: 9999
+01-07-26 08:02 AM - INFO - length before scroll: 9999
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 10718
+01-07-26 08:02 AM - INFO - length before scroll: 10718
+01-07-26 08:02 AM - INFO - length before scroll: 10718
+01-07-26 08:02 AM - INFO - length before scroll: 10718
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 11438
+01-07-26 08:02 AM - INFO - length before scroll: 11438
+01-07-26 08:02 AM - INFO - length before scroll: 11438
+01-07-26 08:02 AM - INFO - length before scroll: 11438
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 12142
+01-07-26 08:02 AM - INFO - length before scroll: 12142
+01-07-26 08:02 AM - INFO - length before scroll: 12142
+01-07-26 08:02 AM - INFO - length before scroll: 12142
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 12849
+01-07-26 08:02 AM - INFO - length before scroll: 12849
+01-07-26 08:02 AM - INFO - length before scroll: 12849
+01-07-26 08:02 AM - INFO - length before scroll: 12849
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 13555
+01-07-26 08:02 AM - INFO - length before scroll: 13555
+01-07-26 08:02 AM - INFO - length before scroll: 13555
+01-07-26 08:02 AM - INFO - length before scroll: 13555
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 14259
+01-07-26 08:02 AM - INFO - length before scroll: 14259
+01-07-26 08:02 AM - INFO - length before scroll: 14259
+01-07-26 08:02 AM - INFO - length before scroll: 14259
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 14979
+01-07-26 08:02 AM - INFO - length before scroll: 14979
+01-07-26 08:02 AM - INFO - length before scroll: 14979
+01-07-26 08:02 AM - INFO - length before scroll: 14979
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - length before scroll: 15418
+01-07-26 08:02 AM - INFO - length before scroll: 15418
+01-07-26 08:02 AM - INFO - length before scroll: 15418
+01-07-26 08:02 AM - INFO - length before scroll: 15418
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - compairing length and scrolling
+01-07-26 08:02 AM - INFO - Browser closing
+01-07-26 08:02 AM - INFO - Browser value is: edge
+01-07-26 08:02 AM - INFO - Browser value is: edge
+01-07-26 08:02 AM - INFO - Launching browser
+01-07-26 08:02 AM - INFO - Launching browser
+01-07-26 08:02 AM - INFO - Maximizing browser
+01-07-26 08:02 AM - INFO - Maximizing browser
+01-07-26 08:03 AM - INFO - Driver initialized
+01-07-26 08:03 AM - INFO - Driver initialized
+01-07-26 08:03 AM - INFO - Select depart-from location DEL
+01-07-26 08:03 AM - INFO - Select depart-from location DEL
+01-07-26 08:03 AM - INFO - Select depart-from location DEL
+01-07-26 08:03 AM - INFO - Select depart-from location DEL
+01-07-26 08:03 AM - INFO - Select depart-from location DEL
+01-07-26 08:03 AM - INFO - Select depart-from location DEL
+01-07-26 08:03 AM - INFO - Select going-to location LCY
+01-07-26 08:03 AM - INFO - Select going-to location LCY
+01-07-26 08:03 AM - INFO - Select going-to location LCY
+01-07-26 08:03 AM - INFO - Select going-to location LCY
+01-07-26 08:03 AM - INFO - Select going-to location LCY
+01-07-26 08:03 AM - INFO - Select going-to location LCY
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 08:03 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 08:03 AM - INFO - Browser closing
+01-07-26 08:03 AM - INFO - Browser closing
+01-07-26 09:31 AM - INFO - Browser value is: edge
+01-07-26 09:31 AM - INFO - Launching browser
+01-07-26 09:31 AM - INFO - Maximizing browser
+01-07-26 09:31 AM - INFO - Driver initialized
+01-07-26 09:31 AM - INFO - Select depart-from location BOM
+01-07-26 09:31 AM - INFO - Select depart-from location BOM
+01-07-26 09:31 AM - INFO - Select going-to location JFK
+01-07-26 09:31 AM - INFO - Select going-to location JFK
+01-07-26 09:31 AM - INFO - Select depart-date 25/July/26
+01-07-26 09:31 AM - INFO - Select depart-date 25/July/26
+01-07-26 09:31 AM - INFO - Click search button
+01-07-26 09:31 AM - INFO - Click search button
+01-07-26 09:31 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:31 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:31 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:31 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:32 AM - INFO - inside page scroll
+01-07-26 09:32 AM - INFO - inside page scroll
+01-07-26 09:32 AM - INFO - inside page scroll
+01-07-26 09:32 AM - INFO - inside page scroll
+01-07-26 09:32 AM - INFO - length before scroll: 2905
+01-07-26 09:32 AM - INFO - length before scroll: 2905
+01-07-26 09:32 AM - INFO - length before scroll: 2905
+01-07-26 09:32 AM - INFO - length before scroll: 2905
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 2907
+01-07-26 09:32 AM - INFO - length before scroll: 2907
+01-07-26 09:32 AM - INFO - length before scroll: 2907
+01-07-26 09:32 AM - INFO - length before scroll: 2907
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 3613
+01-07-26 09:32 AM - INFO - length before scroll: 3613
+01-07-26 09:32 AM - INFO - length before scroll: 3613
+01-07-26 09:32 AM - INFO - length before scroll: 3613
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 4318
+01-07-26 09:32 AM - INFO - length before scroll: 4318
+01-07-26 09:32 AM - INFO - length before scroll: 4318
+01-07-26 09:32 AM - INFO - length before scroll: 4318
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 5022
+01-07-26 09:32 AM - INFO - length before scroll: 5022
+01-07-26 09:32 AM - INFO - length before scroll: 5022
+01-07-26 09:32 AM - INFO - length before scroll: 5022
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 5727
+01-07-26 09:32 AM - INFO - length before scroll: 5727
+01-07-26 09:32 AM - INFO - length before scroll: 5727
+01-07-26 09:32 AM - INFO - length before scroll: 5727
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 6446
+01-07-26 09:32 AM - INFO - length before scroll: 6446
+01-07-26 09:32 AM - INFO - length before scroll: 6446
+01-07-26 09:32 AM - INFO - length before scroll: 6446
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 7151
+01-07-26 09:32 AM - INFO - length before scroll: 7151
+01-07-26 09:32 AM - INFO - length before scroll: 7151
+01-07-26 09:32 AM - INFO - length before scroll: 7151
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 7870
+01-07-26 09:32 AM - INFO - length before scroll: 7870
+01-07-26 09:32 AM - INFO - length before scroll: 7870
+01-07-26 09:32 AM - INFO - length before scroll: 7870
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 8575
+01-07-26 09:32 AM - INFO - length before scroll: 8575
+01-07-26 09:32 AM - INFO - length before scroll: 8575
+01-07-26 09:32 AM - INFO - length before scroll: 8575
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 9279
+01-07-26 09:32 AM - INFO - length before scroll: 9279
+01-07-26 09:32 AM - INFO - length before scroll: 9279
+01-07-26 09:32 AM - INFO - length before scroll: 9279
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 9999
+01-07-26 09:32 AM - INFO - length before scroll: 9999
+01-07-26 09:32 AM - INFO - length before scroll: 9999
+01-07-26 09:32 AM - INFO - length before scroll: 9999
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 10718
+01-07-26 09:32 AM - INFO - length before scroll: 10718
+01-07-26 09:32 AM - INFO - length before scroll: 10718
+01-07-26 09:32 AM - INFO - length before scroll: 10718
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 11438
+01-07-26 09:32 AM - INFO - length before scroll: 11438
+01-07-26 09:32 AM - INFO - length before scroll: 11438
+01-07-26 09:32 AM - INFO - length before scroll: 11438
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 12142
+01-07-26 09:32 AM - INFO - length before scroll: 12142
+01-07-26 09:32 AM - INFO - length before scroll: 12142
+01-07-26 09:32 AM - INFO - length before scroll: 12142
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 12849
+01-07-26 09:32 AM - INFO - length before scroll: 12849
+01-07-26 09:32 AM - INFO - length before scroll: 12849
+01-07-26 09:32 AM - INFO - length before scroll: 12849
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 13555
+01-07-26 09:32 AM - INFO - length before scroll: 13555
+01-07-26 09:32 AM - INFO - length before scroll: 13555
+01-07-26 09:32 AM - INFO - length before scroll: 13555
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 14259
+01-07-26 09:32 AM - INFO - length before scroll: 14259
+01-07-26 09:32 AM - INFO - length before scroll: 14259
+01-07-26 09:32 AM - INFO - length before scroll: 14259
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 14979
+01-07-26 09:32 AM - INFO - length before scroll: 14979
+01-07-26 09:32 AM - INFO - length before scroll: 14979
+01-07-26 09:32 AM - INFO - length before scroll: 14979
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - length before scroll: 15418
+01-07-26 09:32 AM - INFO - length before scroll: 15418
+01-07-26 09:32 AM - INFO - length before scroll: 15418
+01-07-26 09:32 AM - INFO - length before scroll: 15418
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - compairing length and scrolling
+01-07-26 09:32 AM - INFO - Browser closing
+01-07-26 09:32 AM - INFO - Browser value is: edge
+01-07-26 09:32 AM - INFO - Browser value is: edge
+01-07-26 09:32 AM - INFO - Launching browser
+01-07-26 09:32 AM - INFO - Launching browser
+01-07-26 09:32 AM - INFO - Maximizing browser
+01-07-26 09:32 AM - INFO - Maximizing browser
+01-07-26 09:33 AM - INFO - Driver initialized
+01-07-26 09:33 AM - INFO - Driver initialized
+01-07-26 09:33 AM - INFO - Select depart-from location DEL
+01-07-26 09:33 AM - INFO - Select depart-from location DEL
+01-07-26 09:33 AM - INFO - Select depart-from location DEL
+01-07-26 09:33 AM - INFO - Select depart-from location DEL
+01-07-26 09:33 AM - INFO - Select depart-from location DEL
+01-07-26 09:33 AM - INFO - Select depart-from location DEL
+01-07-26 09:33 AM - INFO - Select going-to location LCY
+01-07-26 09:33 AM - INFO - Select going-to location LCY
+01-07-26 09:33 AM - INFO - Select going-to location LCY
+01-07-26 09:33 AM - INFO - Select going-to location LCY
+01-07-26 09:33 AM - INFO - Select going-to location LCY
+01-07-26 09:33 AM - INFO - Select going-to location LCY
+01-07-26 09:33 AM - INFO - Select depart-date 24/July/16
+01-07-26 09:33 AM - INFO - Select depart-date 24/July/16
+01-07-26 09:33 AM - INFO - Select depart-date 24/July/16
+01-07-26 09:33 AM - INFO - Select depart-date 24/July/16
+01-07-26 09:33 AM - INFO - Select depart-date 24/July/16
+01-07-26 09:33 AM - INFO - Select depart-date 24/July/16
+01-07-26 09:34 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 09:34 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 09:34 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 09:34 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 09:34 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 09:34 AM - INFO - Select depart-date 24/July/16 Exception Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7e775f205+e065]
+	msedgedriver!GetHandleVerifier [0x7ff7e775f264+e0c4]
+	msedgedriver!GetHandleVerifier [0x7ff7e7ddc9ea+68b84a]
+	msedgedriver!(No symbol) [0x7ff7e713e3ca]
+	msedgedriver!(No symbol) [0x7ff7e713e645]
+	msedgedriver!(No symbol) [0x7ff7e717c137]
+	msedgedriver!(No symbol) [0x7ff7e7135037]
+	msedgedriver!(No symbol) [0x7ff7e7179e08]
+	msedgedriver!(No symbol) [0x7ff7e713487c]
+	msedgedriver!(No symbol) [0x7ff7e7133ad6]
+	msedgedriver!(No symbol) [0x7ff7e71346a3]
+	msedgedriver!(No symbol) [0x7ff7e739ed81]
+	msedgedriver!(No symbol) [0x7ff7e739b4d8]
+	msedgedriver!(No symbol) [0x7ff7e73abf65]
+	msedgedriver!GetHandleVerifier [0x7ff7e777b1b1+2a011]
+	msedgedriver!GetHandleVerifier [0x7ff7e7783f56+32db6]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766cc4+15b24]
+	msedgedriver!GetHandleVerifier [0x7ff7e7766de5+15c45]
+	msedgedriver!GetHandleVerifier [0x7ff7e7753693+24f3]
+	KERNEL32!BaseThreadInitThunk [0x7ffdcab0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdcc3ec53c+2c]
+
+01-07-26 09:34 AM - INFO - Browser closing
+01-07-26 09:34 AM - INFO - Browser closing
+01-07-26 09:35 AM - INFO - Browser value is: edge
+01-07-26 09:35 AM - INFO - Launching browser
+01-07-26 09:35 AM - INFO - Maximizing browser
+01-07-26 09:35 AM - INFO - Driver initialized
+01-07-26 09:35 AM - INFO - Select depart-from location BOM
+01-07-26 09:35 AM - INFO - Select depart-from location BOM
+01-07-26 09:35 AM - INFO - Browser closing
+01-07-26 09:35 AM - INFO - Browser value is: edge
+01-07-26 09:35 AM - INFO - Browser value is: edge
+01-07-26 09:35 AM - INFO - Launching browser
+01-07-26 09:35 AM - INFO - Launching browser
+01-07-26 09:35 AM - INFO - Maximizing browser
+01-07-26 09:35 AM - INFO - Maximizing browser
+01-07-26 09:35 AM - INFO - Driver initialized
+01-07-26 09:35 AM - INFO - Driver initialized
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Browser closing
+01-07-26 09:35 AM - INFO - Browser closing
+01-07-26 09:35 AM - INFO - Browser value is: edge
+01-07-26 09:35 AM - INFO - Browser value is: edge
+01-07-26 09:35 AM - INFO - Browser value is: edge
+01-07-26 09:35 AM - INFO - Launching browser
+01-07-26 09:35 AM - INFO - Launching browser
+01-07-26 09:35 AM - INFO - Launching browser
+01-07-26 09:35 AM - INFO - Maximizing browser
+01-07-26 09:35 AM - INFO - Maximizing browser
+01-07-26 09:35 AM - INFO - Maximizing browser
+01-07-26 09:35 AM - INFO - Driver initialized
+01-07-26 09:35 AM - INFO - Driver initialized
+01-07-26 09:35 AM - INFO - Driver initialized
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Select depart-from location DEL
+01-07-26 09:35 AM - INFO - Browser closing
+01-07-26 09:35 AM - INFO - Browser closing
+01-07-26 09:35 AM - INFO - Browser closing
+01-07-26 09:36 AM - INFO - Browser value is: edge
+01-07-26 09:36 AM - INFO - Launching browser
+01-07-26 09:36 AM - INFO - Maximizing browser
+01-07-26 09:36 AM - INFO - Driver initialized
+01-07-26 09:36 AM - INFO - Select depart-from location BOM
+01-07-26 09:36 AM - INFO - Select depart-from location BOM
+01-07-26 09:36 AM - INFO - Select going-to location JFK
+01-07-26 09:36 AM - INFO - Select going-to location JFK
+01-07-26 09:37 AM - INFO - Select depart-date 25/July/26
+01-07-26 09:37 AM - INFO - Select depart-date 25/July/26
+01-07-26 09:37 AM - INFO - Click search button
+01-07-26 09:37 AM - INFO - Click search button
+01-07-26 09:37 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:37 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:37 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:37 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:37 AM - INFO - inside page scroll
+01-07-26 09:37 AM - INFO - inside page scroll
+01-07-26 09:37 AM - INFO - inside page scroll
+01-07-26 09:37 AM - INFO - inside page scroll
+01-07-26 09:37 AM - INFO - length before scroll: 2905
+01-07-26 09:37 AM - INFO - length before scroll: 2905
+01-07-26 09:37 AM - INFO - length before scroll: 2905
+01-07-26 09:37 AM - INFO - length before scroll: 2905
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 3613
+01-07-26 09:37 AM - INFO - length before scroll: 3613
+01-07-26 09:37 AM - INFO - length before scroll: 3613
+01-07-26 09:37 AM - INFO - length before scroll: 3613
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 4318
+01-07-26 09:37 AM - INFO - length before scroll: 4318
+01-07-26 09:37 AM - INFO - length before scroll: 4318
+01-07-26 09:37 AM - INFO - length before scroll: 4318
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 5022
+01-07-26 09:37 AM - INFO - length before scroll: 5022
+01-07-26 09:37 AM - INFO - length before scroll: 5022
+01-07-26 09:37 AM - INFO - length before scroll: 5022
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 5727
+01-07-26 09:37 AM - INFO - length before scroll: 5727
+01-07-26 09:37 AM - INFO - length before scroll: 5727
+01-07-26 09:37 AM - INFO - length before scroll: 5727
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 6446
+01-07-26 09:37 AM - INFO - length before scroll: 6446
+01-07-26 09:37 AM - INFO - length before scroll: 6446
+01-07-26 09:37 AM - INFO - length before scroll: 6446
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 7151
+01-07-26 09:37 AM - INFO - length before scroll: 7151
+01-07-26 09:37 AM - INFO - length before scroll: 7151
+01-07-26 09:37 AM - INFO - length before scroll: 7151
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 7870
+01-07-26 09:37 AM - INFO - length before scroll: 7870
+01-07-26 09:37 AM - INFO - length before scroll: 7870
+01-07-26 09:37 AM - INFO - length before scroll: 7870
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 8575
+01-07-26 09:37 AM - INFO - length before scroll: 8575
+01-07-26 09:37 AM - INFO - length before scroll: 8575
+01-07-26 09:37 AM - INFO - length before scroll: 8575
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 9279
+01-07-26 09:37 AM - INFO - length before scroll: 9279
+01-07-26 09:37 AM - INFO - length before scroll: 9279
+01-07-26 09:37 AM - INFO - length before scroll: 9279
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 9999
+01-07-26 09:37 AM - INFO - length before scroll: 9999
+01-07-26 09:37 AM - INFO - length before scroll: 9999
+01-07-26 09:37 AM - INFO - length before scroll: 9999
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 10718
+01-07-26 09:37 AM - INFO - length before scroll: 10718
+01-07-26 09:37 AM - INFO - length before scroll: 10718
+01-07-26 09:37 AM - INFO - length before scroll: 10718
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 11438
+01-07-26 09:37 AM - INFO - length before scroll: 11438
+01-07-26 09:37 AM - INFO - length before scroll: 11438
+01-07-26 09:37 AM - INFO - length before scroll: 11438
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 12142
+01-07-26 09:37 AM - INFO - length before scroll: 12142
+01-07-26 09:37 AM - INFO - length before scroll: 12142
+01-07-26 09:37 AM - INFO - length before scroll: 12142
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 12849
+01-07-26 09:37 AM - INFO - length before scroll: 12849
+01-07-26 09:37 AM - INFO - length before scroll: 12849
+01-07-26 09:37 AM - INFO - length before scroll: 12849
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 13555
+01-07-26 09:37 AM - INFO - length before scroll: 13555
+01-07-26 09:37 AM - INFO - length before scroll: 13555
+01-07-26 09:37 AM - INFO - length before scroll: 13555
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 14259
+01-07-26 09:37 AM - INFO - length before scroll: 14259
+01-07-26 09:37 AM - INFO - length before scroll: 14259
+01-07-26 09:37 AM - INFO - length before scroll: 14259
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 14979
+01-07-26 09:37 AM - INFO - length before scroll: 14979
+01-07-26 09:37 AM - INFO - length before scroll: 14979
+01-07-26 09:37 AM - INFO - length before scroll: 14979
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - length before scroll: 15418
+01-07-26 09:37 AM - INFO - length before scroll: 15418
+01-07-26 09:37 AM - INFO - length before scroll: 15418
+01-07-26 09:37 AM - INFO - length before scroll: 15418
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:37 AM - INFO - compairing length and scrolling
+01-07-26 09:38 AM - INFO - Browser closing
+01-07-26 09:38 AM - INFO - Browser value is: edge
+01-07-26 09:38 AM - INFO - Browser value is: edge
+01-07-26 09:38 AM - INFO - Launching browser
+01-07-26 09:38 AM - INFO - Launching browser
+01-07-26 09:38 AM - INFO - Maximizing browser
+01-07-26 09:38 AM - INFO - Maximizing browser
+01-07-26 09:38 AM - INFO - Driver initialized
+01-07-26 09:38 AM - INFO - Driver initialized
+01-07-26 09:38 AM - INFO - Select depart-from location DEL
+01-07-26 09:38 AM - INFO - Select depart-from location DEL
+01-07-26 09:38 AM - INFO - Select depart-from location DEL
+01-07-26 09:38 AM - INFO - Select depart-from location DEL
+01-07-26 09:38 AM - INFO - Select depart-from location DEL
+01-07-26 09:38 AM - INFO - Select depart-from location DEL
+01-07-26 09:38 AM - INFO - Select going-to location BLR
+01-07-26 09:38 AM - INFO - Select going-to location BLR
+01-07-26 09:38 AM - INFO - Select going-to location BLR
+01-07-26 09:38 AM - INFO - Select going-to location BLR
+01-07-26 09:38 AM - INFO - Select going-to location BLR
+01-07-26 09:38 AM - INFO - Select going-to location BLR
+01-07-26 09:38 AM - INFO - Select depart-date 24/July/26
+01-07-26 09:38 AM - INFO - Select depart-date 24/July/26
+01-07-26 09:38 AM - INFO - Select depart-date 24/July/26
+01-07-26 09:38 AM - INFO - Select depart-date 24/July/26
+01-07-26 09:38 AM - INFO - Select depart-date 24/July/26
+01-07-26 09:38 AM - INFO - Select depart-date 24/July/26
+01-07-26 09:38 AM - INFO - Click search button
+01-07-26 09:38 AM - INFO - Click search button
+01-07-26 09:38 AM - INFO - Click search button
+01-07-26 09:38 AM - INFO - Click search button
+01-07-26 09:38 AM - INFO - Click search button
+01-07-26 09:38 AM - INFO - Click search button
+01-07-26 09:38 AM - INFO - Click on 0 stop(s) flight result
+01-07-26 09:38 AM - INFO - Click on 0 stop(s) flight result
+01-07-26 09:38 AM - INFO - Click on 0 stop(s) flight result
+01-07-26 09:38 AM - INFO - Click on 0 stop(s) flight result
+01-07-26 09:38 AM - INFO - Click on 0 stop(s) flight result
+01-07-26 09:38 AM - INFO - Click on 0 stop(s) flight result
+01-07-26 09:38 AM - INFO - Click on 0 stop(s) flight result
+01-07-26 09:38 AM - INFO - Click on 0 stop(s) flight result
+01-07-26 09:39 AM - INFO - inside page scroll
+01-07-26 09:39 AM - INFO - inside page scroll
+01-07-26 09:39 AM - INFO - inside page scroll
+01-07-26 09:39 AM - INFO - inside page scroll
+01-07-26 09:39 AM - INFO - inside page scroll
+01-07-26 09:39 AM - INFO - inside page scroll
+01-07-26 09:39 AM - INFO - inside page scroll
+01-07-26 09:39 AM - INFO - inside page scroll
+01-07-26 09:39 AM - INFO - length before scroll: 5696
+01-07-26 09:39 AM - INFO - length before scroll: 5696
+01-07-26 09:39 AM - INFO - length before scroll: 5696
+01-07-26 09:39 AM - INFO - length before scroll: 5696
+01-07-26 09:39 AM - INFO - length before scroll: 5696
+01-07-26 09:39 AM - INFO - length before scroll: 5696
+01-07-26 09:39 AM - INFO - length before scroll: 5696
+01-07-26 09:39 AM - INFO - length before scroll: 5696
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - length before scroll: 7081
+01-07-26 09:39 AM - INFO - length before scroll: 7081
+01-07-26 09:39 AM - INFO - length before scroll: 7081
+01-07-26 09:39 AM - INFO - length before scroll: 7081
+01-07-26 09:39 AM - INFO - length before scroll: 7081
+01-07-26 09:39 AM - INFO - length before scroll: 7081
+01-07-26 09:39 AM - INFO - length before scroll: 7081
+01-07-26 09:39 AM - INFO - length before scroll: 7081
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - length before scroll: 7627
+01-07-26 09:39 AM - INFO - length before scroll: 7627
+01-07-26 09:39 AM - INFO - length before scroll: 7627
+01-07-26 09:39 AM - INFO - length before scroll: 7627
+01-07-26 09:39 AM - INFO - length before scroll: 7627
+01-07-26 09:39 AM - INFO - length before scroll: 7627
+01-07-26 09:39 AM - INFO - length before scroll: 7627
+01-07-26 09:39 AM - INFO - length before scroll: 7627
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - length before scroll: 7797
+01-07-26 09:39 AM - INFO - length before scroll: 7797
+01-07-26 09:39 AM - INFO - length before scroll: 7797
+01-07-26 09:39 AM - INFO - length before scroll: 7797
+01-07-26 09:39 AM - INFO - length before scroll: 7797
+01-07-26 09:39 AM - INFO - length before scroll: 7797
+01-07-26 09:39 AM - INFO - length before scroll: 7797
+01-07-26 09:39 AM - INFO - length before scroll: 7797
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - compairing length and scrolling
+01-07-26 09:39 AM - INFO - Browser closing
+01-07-26 09:39 AM - INFO - Browser closing
+01-07-26 09:39 AM - INFO - Browser value is: edge
+01-07-26 09:39 AM - INFO - Browser value is: edge
+01-07-26 09:39 AM - INFO - Browser value is: edge
+01-07-26 09:39 AM - INFO - Launching browser
+01-07-26 09:39 AM - INFO - Launching browser
+01-07-26 09:39 AM - INFO - Launching browser
+01-07-26 09:39 AM - INFO - Maximizing browser
+01-07-26 09:39 AM - INFO - Maximizing browser
+01-07-26 09:39 AM - INFO - Maximizing browser
+01-07-26 09:39 AM - INFO - Driver initialized
+01-07-26 09:39 AM - INFO - Driver initialized
+01-07-26 09:39 AM - INFO - Driver initialized
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select depart-from location DEL
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:39 AM - INFO - Select going-to location HKG
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Select depart-date 15/August/26
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click search button
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - Click on 1 stop(s) flight result
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - inside page scroll
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - length before scroll: 2903
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - length before scroll: 3611
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - length before scroll: 4318
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - length before scroll: 5024
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - length before scroll: 5729
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - length before scroll: 6437
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - length before scroll: 7143
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - length before scroll: 7852
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - length before scroll: 8558
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - length before scroll: 9269
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - length before scroll: 9975
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - length before scroll: 10399
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:40 AM - INFO - compairing length and scrolling
+01-07-26 09:41 AM - INFO - Browser closing
+01-07-26 09:41 AM - INFO - Browser closing
+01-07-26 09:41 AM - INFO - Browser closing
