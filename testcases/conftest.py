@@ -28,12 +28,12 @@ def setup(request):
     driver.maximize_window()
     driver.get("https://www.yatra.com/")
     if "This site can't be reach" in driver.page_source:
-        driver.save_screenshots(f"Yatra website is not reachable_{datetime.now().timestamp()}.png")
+        driver.save_screenshots(f"Yatra website is not reachable_{datetime.now().strftime('%y%m%d_%H%M%S')}.png")
         log.info("Yatra website is not reachable")
         raise Exception("Yatra website is not reachable")
     else:
         log.info("Driver initialized")
-    request.cls.driver=driver #return the instance of driver to the requesting class
+        request.cls.driver=driver #return the instance of driver to the requesting class
    
     yield
     log.info("Browser closing")
