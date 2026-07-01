@@ -28,7 +28,7 @@ class LaunchPage(Base_Driver):
         return self.wait_element_to_be_clickable(By.XPATH, self.depart_from_field_locator)
     
     def get_depart_from_location(self,departairport):
-        print(departairport)
+        #print(departairport)
         depart_from_location_xpath=(self.depart_from_location_locator.replace("departairport",departairport))
         return self.wait_element_to_be_clickable(By.XPATH, depart_from_location_xpath)
     
@@ -70,7 +70,8 @@ class LaunchPage(Base_Driver):
         try:
             self.log.info(f"Select depart-from location {departlocation}")
             self.click_depart_from_field()
-            time.sleep(5)
+            # time.sleep(5)
+            self.driver.switch_to.active_element.send_keys(departlocation + Keys.RETURN)
             depart_element=self.get_depart_from_location(departlocation)
             depart_element.click()
         except Exception as e:
