@@ -30,7 +30,7 @@ class SearchResultPage(Base_Driver):
             self.log.info(f"Click on {stop} stop(s) flight result")
             self.get_stop_flight(stop).click()
         except Exception as e:
-            self.take_screenshots(f"Select_Stop(s)_{stop}_{datetime.now().timestamp()}.png")
+            self.take_screenshots(f"Select_Stop(s)_{stop}_{datetime.now().strftime('%y%m%d_%H%M%S')}.png")
             self.log.info(f"Click on {stop} stop(s) flight result. Exception {e}")
             raise
 

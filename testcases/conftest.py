@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 import pytest
@@ -25,7 +27,12 @@ def setup(request):
     log.info("Maximizing browser")
     driver.maximize_window()
     driver.get("https://www.yatra.com/")
-    log.info("Driver initialized")
+    if "This site can't be reach" in driver.page_source:
+        driver.save_screenshots(f"Yatra website is not reachable_{datetime.now().timestamp()}.png")
+        log.info("Yatra website is not reachable")
+        raise Exception("Yatra website is not reachable")
+    else:
+        log.info("Driver initialized")
     request.cls.driver=driver #return the instance of driver to the requesting class
    
     yield
